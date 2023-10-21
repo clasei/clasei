@@ -10,7 +10,7 @@ I'm ```Clara Seijo```, and here is a little about myself as a front-end develope
 
 I'm a **pragmatic front-end developer**, blending a hands-on, functional style with minimalistic design. I ensure accessibility in my works, aiming for clarity and conciseness. I make sensible decisions that prioritize user experience, creating both aesthetically pleasing and effective outputs.
 
-## My Style & Approach
+### My Style & Approach
 
 **1. Pragmatic** → ```Prioritizing working solutions over passing trends with a direct and hands-on approach.```          
 **2. Functional** → ```Focusing on functionality where every element serves a clear and meaningful purpose.```             
@@ -20,8 +20,7 @@ I'm a **pragmatic front-end developer**, blending a hands-on, functional style w
 **6. Concise** → ```Getting to the point with solutions that are short & sweet, focusing on the essentials.```          
 **7. Sensible** → ```Making reasoned decisions, considering users' needs and emotions in design and development.```      
 
-
-## Skills 
+### Skills 
 
 ```
 - HTML, CSS, JS
@@ -38,7 +37,7 @@ I'm a **pragmatic front-end developer**, blending a hands-on, functional style w
 - SEO Techniques
 ```
 
-## Soft Skills
+### Soft Skills
 
 ```
 - Continuous Learning
