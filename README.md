@@ -2,7 +2,9 @@
 
 <img src="cla_sei_profile_pic_bw_circle.png" alt="clasei profile pic" width="150"/>
 
-Hi there! 👋🏾 Welcome to my README.
+### Hi there! 👋🏾 
+
+Welcome to my README.
 
 I'm ```Clara Seijo```, and here is a little about myself as a front-end developer.
 
