@@ -4,7 +4,7 @@
 
 Hi there! 👋🏾 Welcome to my Read-Me.
 
-I'm Clara Seijo, and here's a little about my approach and style as a front-end developer.
+I'm ```Clara Seijo```, and here's a little about my approach and style as a front-end developer.
 
 ## In a Nutshell
 
