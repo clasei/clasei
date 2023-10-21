@@ -6,31 +6,28 @@
 
 Welcome to my README.
 
-I'm ```Clara Seijo```, and here is a little about myself as a front-end developer.
+I'm ```Clara Seijo```. Here's an insight into my journey as a front-end developer.
 
 ### In a Nutshell
 
-- I'm a **pragmatic front-end developer**, blending a hands-on, functional style with minimalistic design. 
-- My work is user-centric, ensuring accessibility and inclusivity, aiming for clarity and conciseness. 
-- I make sensible decisions that prioritize user experience, creating both aesthetically pleasing and effective outputs.
+> I'm a **pragmatic front-end developer,** blending a hands-on, functional style with minimalistic design.
+> 
+> **My work is user-centric,** ensuring accessibility and inclusivity, aiming for clarity and conciseness.
+> 
+> **I make reasoned decisions** that prioritize user experience, creating both aesthetically pleasing and effective outputs.
+
+---
 
 ### My Style & Approach 
 
-- **Pragmatic** → 
-```Prioritizing working solutions over passing trends with a direct and hands-on approach.```          
-- **Functional** → 
-```Focusing on functionality where every element serves a clear and meaningful purpose.```             
-- **Minimalistic** → 
-```Championing simplicity by removing the unnecessary in both design and code.```                      
-- **Accessible** → 
-```Ensuring developments are inclusive and usable by everyone, regardless of abilities.```             
-- **Clear** → 
-```Work is understandable and straightforward in both design and code.```                              
-- **Concise** → 
-```Getting to the point with solutions that are short & sweet, focusing on the essentials.```          
-- **Sensible** → 
-```Making reasoned decisions, considering users' needs and emotions in design and development.```  
+- **User-Centric** → ```Making reasoned decisions, considering users' needs and emotions.```
+- **Pragmatic** → ```Prioritizing working solutions with a direct and hands-on approach.```
+- **Functional** → ```Every element serves a clear and meaningful purpose.```
+- **Clear & Concise** → ```Getting to the point with short & sweet solutions, focusing on the essentials.```
+- **Accessible** → ```Ensuring developments are inclusive and usable by everyone.```
+- **Minimalistic** → ```Removing the unnecessary in both design and code.```
 
+---
 
 ### Skills 
 
@@ -49,6 +46,8 @@ I'm ```Clara Seijo```, and here is a little about myself as a front-end develope
 - SEO Techniques
 ```
 
+---
+
 ### Soft Skills
 
 ```
@@ -61,6 +60,8 @@ I'm ```Clara Seijo```, and here is a little about myself as a front-end develope
 - Resilience
 - Determination
 ```
+
+---
 
 ### Keywords
 
@@ -91,9 +92,16 @@ I'm ```Clara Seijo```, and here is a little about myself as a front-end develope
 
 ---
 
+### Growing Projects
+- [**matterAnimation**](https://clasei.github.io/matter-animation/)
+- [**spaceTime**](https://clasei.github.io/space-time/)
+- [**quantumCookies**](https://clasei.github.io/quantum-cookies/)
+
+---
+
 Feel free to explore my repos and let's build together. 
 
-> Make a nice day, one line at a time! 
+Make a nice day, one line at a time! 
 
 ---
 
