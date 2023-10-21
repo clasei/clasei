@@ -1,8 +1,8 @@
 # clasei 🚀 Pragmatic Front-End Developer
 
-Hi there! 👋🏾 Welcome to my Read-Me.
-
 <img src="cla_sei_profile_pic_bw_circle.png" alt="clasei profile pic" width="150"/>
+
+Hi there! 👋🏾 Welcome to my Read-Me.
 
 I'm Clara Seijo, and here's a little about my approach and style as a front-end developer.
 
@@ -10,7 +10,7 @@ I'm Clara Seijo, and here's a little about my approach and style as a front-end 
 
 I'm a Pragmatic Frontend Developer blending a hands-on, functional approach with minimalistic design. I ensure accessibility in all my works, aiming for clarity and conciseness. Above all, I make sensible decisions that prioritize user experience, creating both aesthetically pleasing and functional outputs.
 
-## My Style & Approach
+## My Approach & Style
 
 1. **Pragmatic:** I prioritize working solutions over passing trends. My approach is direct and hands-on.
 2. **Functional:** I focus on functionality, ensuring that every element has a clear and meaningful purpose.
