@@ -106,7 +106,7 @@ I'm ```Clara Seijo```, a **pragmatic front-end developer**.
 
 Want to connect? Reach out on [LinkedIn](https://www.linkedin.com/in/claraseijo/)
 
-Thoughts? Write to → [**clasei@proton.me**](mailto:clasei@proton.me)
+Thoughts? Write to [**clasei@proton.me**](mailto:clasei@proton.me)
 
 Make a nice day, one line at a time. 
 
