@@ -100,7 +100,6 @@ I'm ```Clara Seijo```, a **pragmatic front-end developer**.
 
 - [**matterAnimation**](https://clasei.github.io/matter-animation/) → *a simple and accessible way to create animations with Matter.js*
 - [**quantumCookies**](https://clasei.github.io/quantum-cookies/) → *like fortune cookies, but making sense — a quick check-in with yourself and Feynman*
-- [**pragmaticFooter**](https://clasei.github.io/pragmatic-footer/) → *this is a pragmatic footer*
 - [**spaceTime**](https://clasei.github.io/space-time/) → *an easy way to look at time while you are in your space*
 
 ---
