@@ -4,13 +4,13 @@
 
 Hi there! 👋🏾 Welcome to my README.
 
-I'm ```Clara Seijo```, and here's a little about my approach and style as a front-end developer.
+I'm ```Clara Seijo```, and I'm a **pragmatic front-end developer**.
 
 ## In a Nutshell
 
-I'm a **pragmatic front-end developer**, blending a hands-on, functional approach with minimalistic design. I ensure accessibility in my works, aiming for clarity and conciseness. Above all, I make sensible decisions that prioritize user experience, creating both aesthetically pleasing and functional outputs.
+I blend a hands-on, functional style with minimalistic design. I ensure accessibility in my works, aiming for clarity and conciseness. Above all, I make sensible decisions that prioritize user experience, creating both aesthetically pleasing and functional outputs.
 
-## My Approach & Style
+## My Style & Approach
 
 **1. Pragmatic** → ```Prioritizing working solutions over passing trends with a direct and hands-on approach.```          
 **2. Functional** → ```Focusing on functionality where every element serves a clear and meaningful purpose.```             
