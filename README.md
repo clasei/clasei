@@ -4,19 +4,19 @@
 
 ### Hi there! 
 
-Welcome to my README.
+Welcome to my README
 
-I'm ```Clara Seijo```, a **pragmatic front-end developer**.
+I'm ```Clara Seijo```, a **pragmatic front-end developer**
 
 ---
 
 ### In a Nutshell
 
-> Blending a hands-on, functional style with minimalistic design.
+> Blending a hands-on, functional style with minimalistic design
 > 
-> My work is user-centric, emphasizing accessibility and inclusivity, aiming for clarity and conciseness.
+> My work is user-centric, emphasizing accessibility and inclusivity, aiming for clarity and conciseness
 > 
-> I make reasoned decisions that prioritize user experience, creating both aesthetically pleasing and effective outputs.
+> I make reasoned decisions that prioritize user experience, creating both aesthetically pleasing and effective outputs
 
 ---
 
@@ -110,6 +110,6 @@ Want to connect? Reach out on [LinkedIn](https://www.linkedin.com/in/claraseijo/
 
 Thoughts? Write to [**clasei@proton.me**](mailto:clasei@proton.me)
 
-Make a nice day, one line at a time. 
+Make a nice day, one line at a time 
 
 ```[ build, don't talk ]```
