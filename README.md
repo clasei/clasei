@@ -20,7 +20,7 @@ I'm ```Clara Seijo```, a **pragmatic front-end developer**.
 
 ---
 
-### My Style & Approach 
+### Style & Approach 
 
 - **Pragmatic** → ```Prioritizing working solutions with a direct and hands-on approach```
 - **User-Centric** → ```Making reasoned decisions, considering users' needs and emotions```
