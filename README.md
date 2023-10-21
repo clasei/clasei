@@ -54,7 +54,7 @@ I'm a Pragmatic Frontend Developer blending a hands-on, functional approach with
 ---
 Feel free to explore my portfolio and let's connect. 
 
-_Make a nice day, one line at a time!_
+> Make a nice day, one line at a time!
 
 ---
 
