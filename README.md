@@ -14,7 +14,7 @@ I'm ```Clara Seijo```, a **pragmatic front-end developer**.
 
 > Blending a hands-on, functional style with minimalistic design.
 > 
-> My work is user-centric, ensuring accessibility and inclusivity, aiming for clarity and conciseness.
+> My work is user-centric, emphasizing accessibility and inclusivity, aiming for clarity and conciseness.
 > 
 > I make reasoned decisions that prioritize user experience, creating both aesthetically pleasing and effective outputs.
 
@@ -96,11 +96,11 @@ I'm ```Clara Seijo```, a **pragmatic front-end developer**.
 
 ### Growing Projects
 
-Feel free to explore my repos and let's build together. 
+```< let's build together >```
 
-- <a href="https://clasei.github.io/matter-animation/" target="_blank" aria-label="Link to matterAnimation repo">**matterAnimation**</a> → a simple and accessible way to create animations with Matter.js
-- <a href="https://clasei.github.io/space-time/" target="_blank" aria-label="Link to spaceTime repo">**spaceTime**</a> → an easy way to look at time while you are in your space
-- <a href="https://clasei.github.io/quantum-cookies/" target="_blank" aria-label="Link to quantumCookies repo">**quantumCookies**</a> → like fortune cookies, but making sense — a quick check-in with yourself and Feynman
+- <a href="https://clasei.github.io/matter-animation/" target="_blank" aria-label="Link to matterAnimation repo">**matterAnimation**</a> → *a simple and accessible way to create animations with Matter.js*
+- <a href="https://clasei.github.io/space-time/" target="_blank" aria-label="Link to spaceTime repo">**spaceTime**</a> → *an easy way to look at time while you are in your space*
+- <a href="https://clasei.github.io/quantum-cookies/" target="_blank" aria-label="Link to quantumCookies repo">**quantumCookies**</a> → *like fortune cookies, but making sense — a quick check-in with yourself and Feynman*
 
 ---
 
