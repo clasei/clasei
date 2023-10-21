@@ -52,10 +52,11 @@ I'm a Pragmatic Frontend Developer blending a hands-on, functional approach with
 ```
 
 ---
+
 Feel free to explore my portfolio and let's connect. 
 
-Thoughts? Write to → [clasei@proton.me](mailto:clasei@proton.me)
+> Make a nice day, one line at a time!
 
 ---
 
-> Make a nice day, one line at a time!
+Thoughts? Write to → [clasei@proton.me](mailto:clasei@proton.me)
