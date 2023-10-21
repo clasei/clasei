@@ -36,7 +36,7 @@ I'm ```Clara Seijo```, a **pragmatic front-end developer**
 ```
 - HTML, CSS, JS
 - Frameworks: Angular
-- Libraries: Bootstrap, Particles
+- Libraries: Bootstrap, jQuery
 - Version Control: Git
 - Good Coding Practices
 - Responsive Design
