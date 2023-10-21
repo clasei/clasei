@@ -2,7 +2,7 @@
 
 [<img src="cla_sei_profile_pic_bw_circle.png" alt="clasei profile pic" width="150"/>](https://github.com/clasei/)
 
-### Hi there 👋🏾 
+### Hi there! 
 
 Welcome to my README.
 
@@ -10,11 +10,11 @@ I'm ```Clara Seijo```, and here is a little about myself as a front-end develope
 
 ### In a Nutshell
 
-- 🖥️ I'm a **pragmatic front-end developer**, blending a hands-on, functional style with minimalistic design. 
-- 🛠️ My work is user-centric, ensuring accesibility and inclusivity, aiming for clarity and conciseness. 
-- 🎯 I make sensible decisions that prioritize user experience, creating both aesthetically pleasing and effective outputs.
+- I'm a **pragmatic front-end developer**, blending a hands-on, functional style with minimalistic design. 
+- My work is user-centric, ensuring accessibility and inclusivity, aiming for clarity and conciseness. 
+- I make sensible decisions that prioritize user experience, creating both aesthetically pleasing and effective outputs.
 
-### My Style & Approach
+### My Style & Approach 
 
 - **Pragmatic** → 
 ```Prioritizing working solutions over passing trends with a direct and hands-on approach.```          
@@ -32,7 +32,7 @@ I'm ```Clara Seijo```, and here is a little about myself as a front-end develope
 ```Making reasoned decisions, considering users' needs and emotions in design and development.```  
 
 
-### Skills
+### Skills 
 
 ```
 - HTML, CSS, JS
@@ -66,7 +66,7 @@ I'm ```Clara Seijo```, and here is a little about myself as a front-end develope
 
 Feel free to explore my repos and let's build together. 
 
-> Make a nice day, one line at a time!
+> Make a nice day, one line at a time! 
 
 ---
 
