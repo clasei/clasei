@@ -17,19 +17,19 @@ I'm ```Clara Seijo```, and here is a little about myself as a front-end develope
 ### My Style & Approach 
 
 - **Pragmatic** → 
-<br>```Prioritizing working solutions over passing trends with a direct and hands-on approach.```          
+```Prioritizing working solutions over passing trends with a direct and hands-on approach.```          
 - **Functional** → 
-<br>```Focusing on functionality where every element serves a clear and meaningful purpose.```             
+```Focusing on functionality where every element serves a clear and meaningful purpose.```             
 - **Minimalistic** → 
-<br>```Championing simplicity by removing the unnecessary in both design and code.```                      
+<``Championing simplicity by removing the unnecessary in both design and code.```                      
 - **Accessible** → 
-<br>```Ensuring developments are inclusive and usable by everyone, regardless of abilities.```             
+```Ensuring developments are inclusive and usable by everyone, regardless of abilities.```             
 - **Clear** → 
-<br>```Work is understandable and straightforward in both design and code.```                              
+```Work is understandable and straightforward in both design and code.```                              
 - **Concise** → 
-<br>```Getting to the point with solutions that are short & sweet, focusing on the essentials.```          
+```Getting to the point with solutions that are short & sweet, focusing on the essentials.```          
 - **Sensible** → 
-<br>```Making reasoned decisions, considering users' needs and emotions in design and development.```  
+```Making reasoned decisions, considering users' needs and emotions in design and development.```  
 
 
 ### Skills 
