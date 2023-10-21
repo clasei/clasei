@@ -30,7 +30,7 @@ I'm ```Clara Seijo```, a **pragmatic front-end developer**
 
 - **Clear & Concise** → ```Getting to the point with short & sweet solutions, focusing on the essentials```
 
-- **Accessible** → ```Ensuring developments are inclusive and usable by everyone```
+- **Inclusive** → ```Ensuring that different user groups feels considered and included```
 
 - **Minimalistic** → ```Removing the unnecessary in both design and code```
 
