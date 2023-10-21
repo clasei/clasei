@@ -75,7 +75,7 @@ I'm ```Clara Seijo```, a **pragmatic front-end developer**.
 ![Angular](https://img.shields.io/badge/-Angular-grey?logo=angular)
 ![Node.js](https://img.shields.io/badge/-Node.js-grey?logo=node.js)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-grey?logo=bootstrap)
-![Sass](https://img.shields.io/badge/-Sass/SCSS-%23CC6699?style=flat-square&logo=sass)
+![Sass/SCSS](https://img.shields.io/badge/-Sass/SCSS-grey?logo=sass)
 
 - **Version Control** 
 <br>![Git](https://img.shields.io/badge/-Git-grey?logo=git)
@@ -92,7 +92,7 @@ I'm ```Clara Seijo```, a **pragmatic front-end developer**.
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-grey?style=flat&logo=cloudflare&logoColor=%23F38020)
 ![Figma](https://img.shields.io/badge/-Figma-grey?logo=figma)
 ![Adobe Creative Cloud](https://img.shields.io/badge/-Adobe_Creative_Cloud-grey?style=flat&logo=adobe-creative-cloud&logoColor=%23DA1F26)
-![Lighthouse](https://img.shields.io/badge/-Lighthouse-%23E44D26?style=flat-square&logo=lighthouse)
+![Lighthouse](https://img.shields.io/badge/-Lighthouse-grey?logo=lighthouse)
 
 ---
 
