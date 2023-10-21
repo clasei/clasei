@@ -12,11 +12,11 @@ I'm ```Clara Seijo```, a **pragmatic front-end developer**
 
 ### In a Nutshell
 
-> Blending a hands-on, functional style with minimalistic design
+> Blending a hands-on, functional style with minimalistic design.
 > 
-> My work is user-centric, emphasizing accessibility and inclusivity, aiming for clarity and conciseness
+> My work is user-centric, emphasizing accessibility and inclusivity, aiming for clarity and conciseness.
 > 
-> I make reasoned decisions that prioritize user experience, creating both aesthetically pleasing and effective outputs
+> I make reasoned decisions that prioritize user experience, creating both aesthetically pleasing and effective outputs.
 
 ---
 
