@@ -8,7 +8,7 @@ I'm ```Clara Seijo```, and here's a little about my approach and style as a fron
 
 ## In a Nutshell
 
-I'm a Pragmatic Frontend Developer blending a hands-on, functional approach with minimalistic design. I ensure accessibility in all my works, aiming for clarity and conciseness. Above all, I make sensible decisions that prioritize user experience, creating both aesthetically pleasing and functional outputs.
+I'm a **pragmatic front-end developer**, blending a hands-on, functional approach with minimalistic design. I ensure accessibility in my works, aiming for clarity and conciseness. Above all, I make sensible decisions that prioritize user experience, creating both aesthetically pleasing and functional outputs.
 
 ## My Approach & Style
 
