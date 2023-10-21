@@ -35,13 +35,13 @@ I'm ```Clara Seijo```, a **pragmatic front-end developer**.
 - HTML, CSS, JS
 - Frameworks: Angular
 - Libraries: Bootstrap, Particles
-- Flexbox & CSS Grid
-- Responsive Design
-- Accessibility
-- Web Optimization
-- Good Coding Practices
 - Version Control: Git
+- Good Coding Practices
+- Responsive Design
+- Flexbox & CSS Grid
+- Accessibility
 - UX/UI Design Principles
+- Web Optimization
 - Cross-Browser Compatibility
 - SEO Techniques
 ```
@@ -51,12 +51,12 @@ I'm ```Clara Seijo```, a **pragmatic front-end developer**.
 ### Soft Skills
 
 ```
-- Continuous Learning
-- Team Player
 - Effective Communication
+- Team Player
+- Continuous Learning
 - Problem Solving
-- Attention to Detail
 - Adaptability
+- Attention to Detail
 - Resilience
 - Determination
 ```
@@ -97,13 +97,11 @@ I'm ```Clara Seijo```, a **pragmatic front-end developer**.
 - <a href="https://clasei.github.io/space-time/" target="_blank" aria-label="Link to spaceTime repo">**spaceTime**</a>
 - <a href="https://clasei.github.io/quantum-cookies/" target="_blank" aria-label="Link to quantumCookies repo">**quantumCookies**</a>
 
+Feel free to explore my repos and let's build together. 
 
 ---
-
-Feel free to explore my repos and let's build together. 
 
 Make a nice day, one line at a time! 
 
----
-
+Want to connect? Reach out on [LinkedIn](https://www.linkedin.com/in/claraseijo/)
 Thoughts? Write to → [**clasei@proton.me**](mailto:clasei@proton.me)
