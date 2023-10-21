@@ -12,7 +12,7 @@ I'm a **pragmatic front-end developer**, blending a hands-on, functional approac
 
 ## My Approach & Style
 
-
+|                 |                                                                                                  |
 | --------------- | ------------------------------------------------------------------------------------------------ |
 | **1. Pragmatic**   | ```Prioritizing working solutions over passing trends with a direct and hands-on approach.```          |
 | **2. Functional**  | ```Focusing on functionality where every element serves a clear and meaningful purpose.```             |
