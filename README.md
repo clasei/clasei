@@ -96,13 +96,13 @@ I'm ```Clara Seijo```, a **pragmatic front-end developer**.
 
 ### Growing Projects
 
-```[ build, don't talk ]```
-
 - <a href="https://clasei.github.io/matter-animation/" target="_blank" aria-label="Link to matterAnimation repo">**matterAnimation**</a> → *a simple and accessible way to create animations with Matter.js*
 - <a href="https://clasei.github.io/space-time/" target="_blank" aria-label="Link to spaceTime repo">**spaceTime**</a> → *an easy way to look at time while you are in your space*
 - <a href="https://clasei.github.io/quantum-cookies/" target="_blank" aria-label="Link to quantumCookies repo">**quantumCookies**</a> → *like fortune cookies, but making sense — a quick check-in with yourself and Feynman*
 
 ---
+
+```[ build, don't talk ]```
 
 Want to connect? Reach out on [LinkedIn](https://www.linkedin.com/in/claraseijo/)
 
