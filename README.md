@@ -66,28 +66,28 @@ I'm ```Clara Seijo```, and here is a little about myself as a front-end develope
 
 - **Development & Languages**
   - ![HTML](https://img.shields.io/badge/-HTML-grey?logo=html5)
-  - ![CSS](https://img.shields.io/badge/-CSS-grey?logo=csswizardry)
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?logo=javascript)
-  - ![TypeScript](https://img.shields.io/badge/-TypeScript-grey?logo=typescript)
-  - ![Angular](https://img.shields.io/badge/-Angular-grey?logo=angular)
-  - ![Node.js](https://img.shields.io/badge/-Node.js-grey?logo=node.js)
-  - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-grey?logo=bootstrap)
+![CSS](https://img.shields.io/badge/-CSS-grey?logo=csswizardry)
+![JavaScript](https://img.shields.io/badge/-JavaScript-grey?logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-grey?logo=typescript)
+![Angular](https://img.shields.io/badge/-Angular-grey?logo=angular)
+![Node.js](https://img.shields.io/badge/-Node.js-grey?logo=node.js)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-grey?logo=bootstrap)
 
 - **Version Control**
   - ![Git](https://img.shields.io/badge/-Git-grey?logo=git)
-  - ![GitHub](https://img.shields.io/badge/-GitHub-grey?logo=github)
-  - ![GitLab](https://img.shields.io/badge/-GitLab-grey?logo=gitlab)
+![GitHub](https://img.shields.io/badge/-GitHub-grey?logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-grey?logo=gitlab)
 
 - **Package Managers**
   - ![npm](https://img.shields.io/badge/-npm-grey?logo=npm)
 
 - **Tools & Platforms**
   - ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-grey?style=flat&logo=visual-studio-code&logoColor=blue)
-  - ![Notion](https://img.shields.io/badge/-Notion-grey?style=flat&logo=notion&logoColor=black)
-  - ![WordPress](https://img.shields.io/badge/-WordPress-grey?logo=wordpress)
-  - ![Figma](https://img.shields.io/badge/-Figma-grey?logo=figma)
-  - ![Adobe Creative Cloud](https://img.shields.io/badge/-Adobe_Creative_Cloud-grey?style=flat&logo=adobe-creative-cloud&logoColor=%23DA1F26)
-  - ![Cloudflare](https://img.shields.io/badge/-Cloudflare-grey?style=flat&logo=cloudflare&logoColor=%23F38020)
+![Notion](https://img.shields.io/badge/-Notion-grey?style=flat&logo=notion&logoColor=black)
+![WordPress](https://img.shields.io/badge/-WordPress-grey?logo=wordpress)
+![Figma](https://img.shields.io/badge/-Figma-grey?logo=figma)
+![Adobe Creative Cloud](https://img.shields.io/badge/-Adobe_Creative_Cloud-grey?style=flat&logo=adobe-creative-cloud&logoColor=%23DA1F26)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-grey?style=flat&logo=cloudflare&logoColor=%23F38020)
 
 ---
 
