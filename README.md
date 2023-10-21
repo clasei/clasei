@@ -102,10 +102,12 @@ I'm ```Clara Seijo```, a **pragmatic front-end developer**.
 
 ---
 
+Make a nice day, one line at a time. 
+
+```[ build, don't talk ]```
+
 Want to connect? Reach out on [LinkedIn](https://www.linkedin.com/in/claraseijo/)
 
 Thoughts? Write to → [**clasei@proton.me**](mailto:clasei@proton.me)
 
-Make a nice day, one line at a time. 
 
-```[ build, don't talk ]```
