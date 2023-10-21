@@ -17,19 +17,19 @@ I'm ```Clara Seijo```, and here is a little about myself as a front-end develope
 ### My Style & Approach 
 
 - **Pragmatic** → 
-```Prioritizing working solutions over passing trends with a direct and hands-on approach.```          
+<br>```Prioritizing working solutions over passing trends with a direct and hands-on approach.```          
 - **Functional** → 
-```Focusing on functionality where every element serves a clear and meaningful purpose.```             
+<br>```Focusing on functionality where every element serves a clear and meaningful purpose.```             
 - **Minimalistic** → 
-```Championing simplicity by removing the unnecessary in both design and code.```                      
+<br>```Championing simplicity by removing the unnecessary in both design and code.```                      
 - **Accessible** → 
-```Ensuring developments are inclusive and usable by everyone, regardless of abilities.```             
+<br>```Ensuring developments are inclusive and usable by everyone, regardless of abilities.```             
 - **Clear** → 
-```Work is understandable and straightforward in both design and code.```                              
+<br>```Work is understandable and straightforward in both design and code.```                              
 - **Concise** → 
-```Getting to the point with solutions that are short & sweet, focusing on the essentials.```          
+<br>```Getting to the point with solutions that are short & sweet, focusing on the essentials.```          
 - **Sensible** → 
-```Making reasoned decisions, considering users' needs and emotions in design and development.```  
+<br>```Making reasoned decisions, considering users' needs and emotions in design and development.```  
 
 
 ### Skills 
@@ -64,7 +64,7 @@ I'm ```Clara Seijo```, and here is a little about myself as a front-end develope
 
 ### Keywords
 
-- **Development** — 
+- **Development** 
 <br>![HTML](https://img.shields.io/badge/-HTML-grey?logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-grey?logo=csswizardry)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?logo=javascript)
@@ -73,16 +73,16 @@ I'm ```Clara Seijo```, and here is a little about myself as a front-end develope
 ![Node.js](https://img.shields.io/badge/-Node.js-grey?logo=node.js)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-grey?logo=bootstrap)
 
-- **Version Control** — 
-![Git](https://img.shields.io/badge/-Git-grey?logo=git)
+- **Version Control** 
+<br>![Git](https://img.shields.io/badge/-Git-grey?logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-grey?logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-grey?logo=gitlab)
 
-- **Package Managers** — 
-![npm](https://img.shields.io/badge/-npm-grey?logo=npm)
+- **Package Managers** 
+<br>![npm](https://img.shields.io/badge/-npm-grey?logo=npm)
 
-- **Tools** — 
-![Visual Studio Code](https://img.shields.io/badge/-VS_Code-grey?style=flat&logo=visual-studio-code&logoColor=blue)
+- **Tools** 
+<br>![Visual Studio Code](https://img.shields.io/badge/-VS_Code-grey?style=flat&logo=visual-studio-code&logoColor=blue)
 ![Notion](https://img.shields.io/badge/-Notion-grey?style=flat&logo=notion&logoColor=black)
 ![WordPress](https://img.shields.io/badge/-WordPress-grey?logo=wordpress)
 ![Figma](https://img.shields.io/badge/-Figma-grey?logo=figma)
