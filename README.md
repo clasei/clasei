@@ -16,7 +16,6 @@ I'm ```Clara Seijo```, a **pragmatic front-end developer**.
 > 
 > I make reasoned decisions that prioritize user experience, creating both aesthetically pleasing and effective outputs.
 
----
 
 ### My Style & Approach 
 
@@ -27,7 +26,6 @@ I'm ```Clara Seijo```, a **pragmatic front-end developer**.
 - **Accessible** → ```Ensuring developments are inclusive and usable by everyone.```
 - **Minimalistic** → ```Removing the unnecessary in both design and code.```
 
----
 
 ### Skills 
 
@@ -46,7 +44,6 @@ I'm ```Clara Seijo```, a **pragmatic front-end developer**.
 - SEO Techniques
 ```
 
----
 
 ### Soft Skills
 
@@ -61,7 +58,6 @@ I'm ```Clara Seijo```, a **pragmatic front-end developer**.
 - Determination
 ```
 
----
 
 ### Keywords
 
@@ -90,7 +86,6 @@ I'm ```Clara Seijo```, a **pragmatic front-end developer**.
 ![Adobe Creative Cloud](https://img.shields.io/badge/-Adobe_Creative_Cloud-grey?style=flat&logo=adobe-creative-cloud&logoColor=%23DA1F26)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-grey?style=flat&logo=cloudflare&logoColor=%23F38020)
 
----
 
 ### Growing Projects
 - <a href="https://clasei.github.io/matter-animation/" target="_blank" aria-label="Link to matterAnimation repo">**matterAnimation**</a>
@@ -104,4 +99,5 @@ Feel free to explore my repos and let's build together.
 Make a nice day, one line at a time! 
 
 Want to connect? Reach out on [LinkedIn](https://www.linkedin.com/in/claraseijo/)
+
 Thoughts? Write to → [**clasei@proton.me**](mailto:clasei@proton.me)
