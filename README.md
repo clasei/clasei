@@ -6,11 +6,11 @@
 
 Welcome to my README.
 
-I'm ```Clara Seijo```. Here's an insight into my journey as a front-end developer.
+I'm ```Clara Seijo```, a **pragmatic front-end developer**.
 
 ### In a Nutshell
 
-> I'm a **pragmatic front-end developer,** blending a hands-on, functional style with minimalistic design.
+> Blending a hands-on, functional style with minimalistic design.
 > 
 > My work is user-centric, ensuring accessibility and inclusivity, aiming for clarity and conciseness.
 > 
