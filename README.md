@@ -21,7 +21,7 @@ I'm ```Clara Seijo```, and here is a little about myself as a front-end develope
 - **Functional** → 
 ```Focusing on functionality where every element serves a clear and meaningful purpose.```             
 - **Minimalistic** → 
-<``Championing simplicity by removing the unnecessary in both design and code.```                      
+```Championing simplicity by removing the unnecessary in both design and code.```                      
 - **Accessible** → 
 ```Ensuring developments are inclusive and usable by everyone, regardless of abilities.```             
 - **Clear** → 
