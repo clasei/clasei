@@ -15,8 +15,7 @@ I'm a **pragmatic front-end developer**, blending a hands-on, functional style w
 ### My Style & Approach
 
 
-- **Pragmatic** 
-  → ```Prioritizing working solutions over passing trends with a direct and hands-on approach.```          
+- **Pragmatic** → ```Prioritizing working solutions over passing trends with a direct and hands-on approach.```          
 - **Functional** → ```Focusing on functionality where every element serves a clear and meaningful purpose.```             
 - **Minimalistic** → ```Championing simplicity by removing the unnecessary in both design and code.```                      
 - **Accessible** → ```Ensuring developments are inclusive and usable by everyone, regardless of abilities.```             
