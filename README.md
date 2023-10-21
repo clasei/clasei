@@ -8,6 +8,8 @@ Welcome to my README.
 
 I'm ```Clara Seijo```, a **pragmatic front-end developer**.
 
+---
+
 ### In a Nutshell
 
 > Blending a hands-on, functional style with minimalistic design.
@@ -16,16 +18,18 @@ I'm ```Clara Seijo```, a **pragmatic front-end developer**.
 > 
 > I make reasoned decisions that prioritize user experience, creating both aesthetically pleasing and effective outputs.
 
+---
 
 ### My Style & Approach 
 
-- **User-Centric** → ```Making reasoned decisions, considering users' needs and emotions.```
 - **Pragmatic** → ```Prioritizing working solutions with a direct and hands-on approach.```
+- **User-Centric** → ```Making reasoned decisions, considering users' needs and emotions.```
 - **Functional** → ```Every element serves a clear and meaningful purpose.```
 - **Clear & Concise** → ```Getting to the point with short & sweet solutions, focusing on the essentials.```
 - **Accessible** → ```Ensuring developments are inclusive and usable by everyone.```
 - **Minimalistic** → ```Removing the unnecessary in both design and code.```
 
+---
 
 ### Skills 
 
@@ -44,6 +48,7 @@ I'm ```Clara Seijo```, a **pragmatic front-end developer**.
 - SEO Techniques
 ```
 
+---
 
 ### Soft Skills
 
@@ -58,6 +63,7 @@ I'm ```Clara Seijo```, a **pragmatic front-end developer**.
 - Determination
 ```
 
+---
 
 ### Keywords
 
@@ -86,18 +92,20 @@ I'm ```Clara Seijo```, a **pragmatic front-end developer**.
 ![Adobe Creative Cloud](https://img.shields.io/badge/-Adobe_Creative_Cloud-grey?style=flat&logo=adobe-creative-cloud&logoColor=%23DA1F26)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-grey?style=flat&logo=cloudflare&logoColor=%23F38020)
 
+---
 
 ### Growing Projects
+
+Feel free to explore my repos and let's build together. 
+
 - <a href="https://clasei.github.io/matter-animation/" target="_blank" aria-label="Link to matterAnimation repo">**matterAnimation**</a>
 - <a href="https://clasei.github.io/space-time/" target="_blank" aria-label="Link to spaceTime repo">**spaceTime**</a>
 - <a href="https://clasei.github.io/quantum-cookies/" target="_blank" aria-label="Link to quantumCookies repo">**quantumCookies**</a>
 
-Feel free to explore my repos and let's build together. 
-
 ---
-
-Make a nice day, one line at a time! 
 
 Want to connect? Reach out on [LinkedIn](https://www.linkedin.com/in/claraseijo/)
 
 Thoughts? Write to → [**clasei@proton.me**](mailto:clasei@proton.me)
+
+Make a nice day, one line at a time! 
