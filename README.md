@@ -23,10 +23,15 @@ I'm ```Clara Seijo```, a **pragmatic front-end developer**
 ### Style & Approach 
 
 - **Pragmatic** → ```Prioritizing working solutions with a direct and hands-on approach```
+
 - **User-Centric** → ```Making reasoned decisions, considering users' needs and emotions```
+
 - **Functional** → ```Every element serves a clear and meaningful purpose```
+
 - **Clear & Concise** → ```Getting to the point with short & sweet solutions, focusing on the essentials```
+
 - **Accessible** → ```Ensuring developments are inclusive and usable by everyone```
+
 - **Minimalistic** → ```Removing the unnecessary in both design and code```
 
 ---
@@ -99,7 +104,9 @@ I'm ```Clara Seijo```, a **pragmatic front-end developer**
 ### Growing Projects
 
 - [**matterAnimation**](https://clasei.github.io/matter-animation/) → *a simple and accessible way to create animations with Matter.js*
+
 - [**quantumCookies**](https://clasei.github.io/quantum-cookies/) → *like fortune cookies, but making sense — a quick check-in with yourself and Feynman*
+
 - [**spaceTime**](https://clasei.github.io/space-time/) → *an easy way to look at time while you are in your space*
 
 ---
