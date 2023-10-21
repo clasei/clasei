@@ -10,9 +10,9 @@ I'm ```Clara Seijo```, and here is a little about myself as a front-end develope
 
 ### In a Nutshell
 
-🖥️ I'm a pragmatic front-end developer, blending a hands-on, functional style with minimalistic design. 
-🛠️ My work is user-centric, ensuring accesibility and inclusivity, aiming for clarity and conciseness. 
-🎯 I make sensible decisions that prioritize user experience, creating both aesthetically pleasing and effective outputs.
+- 🖥️ I'm a **pragmatic front-end developer**, blending a hands-on, functional style with minimalistic design. 
+- 🛠️ My work is user-centric, ensuring accesibility and inclusivity, aiming for clarity and conciseness. 
+- 🎯 I make sensible decisions that prioritize user experience, creating both aesthetically pleasing and effective outputs.
 
 ### My Style & Approach
 
