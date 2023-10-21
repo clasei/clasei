@@ -54,7 +54,7 @@ I'm a **pragmatic front-end developer**, blending a hands-on, functional style w
 
 ---
 
-Feel free to explore my portfolio and let's connect. 
+Feel free to explore my repos and let's build together. 
 
 > Make a nice day, one line at a time!
 
