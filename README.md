@@ -64,8 +64,8 @@ I'm ```Clara Seijo```, and here is a little about myself as a front-end develope
 
 ### Keywords
 
-- **Development** 
-  - ![HTML](https://img.shields.io/badge/-HTML-grey?logo=html5)
+- **Development** → 
+![HTML](https://img.shields.io/badge/-HTML-grey?logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-grey?logo=csswizardry)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-grey?logo=typescript)
@@ -73,16 +73,16 @@ I'm ```Clara Seijo```, and here is a little about myself as a front-end develope
 ![Node.js](https://img.shields.io/badge/-Node.js-grey?logo=node.js)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-grey?logo=bootstrap)
 
-- **Version Control** 
-  - ![Git](https://img.shields.io/badge/-Git-grey?logo=git)
+- **Version Control** → 
+![Git](https://img.shields.io/badge/-Git-grey?logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-grey?logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-grey?logo=gitlab)
 
-- **Package Managers** 
-  - ![npm](https://img.shields.io/badge/-npm-grey?logo=npm)
+- **Package Managers** → 
+![npm](https://img.shields.io/badge/-npm-grey?logo=npm)
 
-- **Tools** 
-  - ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-grey?style=flat&logo=visual-studio-code&logoColor=blue)
+- **Tools** → 
+![Visual Studio Code](https://img.shields.io/badge/-VS_Code-grey?style=flat&logo=visual-studio-code&logoColor=blue)
 ![Notion](https://img.shields.io/badge/-Notion-grey?style=flat&logo=notion&logoColor=black)
 ![WordPress](https://img.shields.io/badge/-WordPress-grey?logo=wordpress)
 ![Figma](https://img.shields.io/badge/-Figma-grey?logo=figma)
