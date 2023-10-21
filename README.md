@@ -22,12 +22,12 @@ I'm ```Clara Seijo```, a **pragmatic front-end developer**.
 
 ### My Style & Approach 
 
-- **Pragmatic** → ```Prioritizing working solutions with a direct and hands-on approach.```
-- **User-Centric** → ```Making reasoned decisions, considering users' needs and emotions.```
-- **Functional** → ```Every element serves a clear and meaningful purpose.```
-- **Clear & Concise** → ```Getting to the point with short & sweet solutions, focusing on the essentials.```
-- **Accessible** → ```Ensuring developments are inclusive and usable by everyone.```
-- **Minimalistic** → ```Removing the unnecessary in both design and code.```
+- **Pragmatic** → ```Prioritizing working solutions with a direct and hands-on approach```
+- **User-Centric** → ```Making reasoned decisions, considering users' needs and emotions```
+- **Functional** → ```Every element serves a clear and meaningful purpose```
+- **Clear & Concise** → ```Getting to the point with short & sweet solutions, focusing on the essentials```
+- **Accessible** → ```Ensuring developments are inclusive and usable by everyone```
+- **Minimalistic** → ```Removing the unnecessary in both design and code```
 
 ---
 
@@ -88,9 +88,9 @@ I'm ```Clara Seijo```, a **pragmatic front-end developer**.
 <br>![Visual Studio Code](https://img.shields.io/badge/-VS_Code-grey?style=flat&logo=visual-studio-code&logoColor=blue)
 ![Notion](https://img.shields.io/badge/-Notion-grey?style=flat&logo=notion&logoColor=black)
 ![WordPress](https://img.shields.io/badge/-WordPress-grey?logo=wordpress)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-grey?style=flat&logo=cloudflare&logoColor=%23F38020)
 ![Figma](https://img.shields.io/badge/-Figma-grey?logo=figma)
 ![Adobe Creative Cloud](https://img.shields.io/badge/-Adobe_Creative_Cloud-grey?style=flat&logo=adobe-creative-cloud&logoColor=%23DA1F26)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-grey?style=flat&logo=cloudflare&logoColor=%23F38020)
 
 ---
 
@@ -108,4 +108,4 @@ Want to connect? Reach out on [LinkedIn](https://www.linkedin.com/in/claraseijo/
 
 Thoughts? Write to → [**clasei@proton.me**](mailto:clasei@proton.me)
 
-Make a nice day, one line at a time! 
+Make a nice day, one line at a time. 
