@@ -96,7 +96,7 @@ I'm ```Clara Seijo```, a **pragmatic front-end developer**.
 
 ### Growing Projects
 
-```< let's build together >```
+```[ let's build ]```
 
 - <a href="https://clasei.github.io/matter-animation/" target="_blank" aria-label="Link to matterAnimation repo">**matterAnimation**</a> → *a simple and accessible way to create animations with Matter.js*
 - <a href="https://clasei.github.io/space-time/" target="_blank" aria-label="Link to spaceTime repo">**spaceTime**</a> → *an easy way to look at time while you are in your space*
