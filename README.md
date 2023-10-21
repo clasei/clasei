@@ -1,8 +1,8 @@
-# clasei 🚀 Pragmatic Front-End Developer
+# clasei 🚀 pragmatic front-end developer
 
 <img src="cla_sei_profile_pic_bw_circle.png" alt="clasei profile pic" width="150"/>
 
-Hi there! 👋🏾 Welcome to my Read-Me.
+Hi there! 👋🏾 Welcome to my README.
 
 I'm ```Clara Seijo```, and here's a little about my approach and style as a front-end developer.
 
@@ -59,4 +59,4 @@ Feel free to explore my portfolio and let's connect.
 
 ---
 
-Thoughts? Write to → [clasei@proton.me](mailto:clasei@proton.me)
+Thoughts? Write to → [**clasei@proton.me**](mailto:clasei@proton.me)
