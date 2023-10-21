@@ -93,9 +93,10 @@ I'm ```Clara Seijo```, a **pragmatic front-end developer**.
 ---
 
 ### Growing Projects
-- [**matterAnimation**](https://clasei.github.io/matter-animation/)
-- [**spaceTime**](https://clasei.github.io/space-time/)
-- [**quantumCookies**](https://clasei.github.io/quantum-cookies/)
+- <a href="https://clasei.github.io/matter-animation/" target="_blank" aria-label="Link to matterAnimation repo">**matterAnimation**</a>
+- <a href="https://clasei.github.io/space-time/" target="_blank" aria-label="Link to spaceTime repo">**spaceTime**</a>
+- <a href="https://clasei.github.io/quantum-cookies/" target="_blank" aria-label="Link to quantumCookies repo">**quantumCookies**</a>
+
 
 ---
 
