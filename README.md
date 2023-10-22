@@ -26,7 +26,7 @@ I'm ```Clara Seijo```, a **pragmatic front-end developer**
 
 - **User-Centric** → ```Making reasoned decisions, considering users' needs and emotions```
 
-- **Functional** → ```Every element serves a clear and meaningful purpose```
+- **Functional** → ```Every element holds a distinct and meaningful role```
 
 - **Clear & Concise** → ```Getting to the point with short & sweet solutions, focusing on the essentials```
 
