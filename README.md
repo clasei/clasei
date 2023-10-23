@@ -111,6 +111,8 @@ I'm ```Clara Seijo```, a **pragmatic front-end developer**
 
 - [**spaceTime**](https://clasei.github.io/space-time/) → *an easy way to look at time while you are in your space*
 
+- [**twinkleCircle**](https://clasei.github.io/twinkle-circle/) → *a modern twist on a classic to test your own random access memory*
+
 ---
 
 ### Get In Touch
