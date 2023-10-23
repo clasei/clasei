@@ -40,7 +40,7 @@ I'm ```Clara Seijo```, a **pragmatic front-end developer**
 
 ```
 - HTML, CSS, JS
-- Frameworks: Angular
+- Frameworks: Angular, React
 - Libraries: jQuery, Bootstrap
 - Version Control: Git, GitHub, GitLab
 - Good Coding Practices
@@ -78,6 +78,7 @@ I'm ```Clara Seijo```, a **pragmatic front-end developer**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-grey?logo=typescript)
 ![Angular](https://img.shields.io/badge/-Angular-grey?logo=angular)
+![React](https://img.shields.io/badge/-React-grey?logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-grey?logo=node.js)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-grey?logo=bootstrap)
 ![Sass/SCSS](https://img.shields.io/badge/-Sass/SCSS-grey?logo=sass)
