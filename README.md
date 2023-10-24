@@ -6,7 +6,7 @@
 
 Welcome to my README
 
-I'm ```Clara Seijo```, a **pragmatic front-end developer**
+I'm ```Clara Seijo```, **pragmatic front-end developer**
 
 ---
 
