@@ -90,6 +90,7 @@ I'm ```Clara Seijo```, **pragmatic front-end developer**
 
 - **Package Managers** 
 <br>![npm](https://img.shields.io/badge/-npm-grey?logo=npm)
+<br>![Yarn](https://img.shields.io/badge/-yarn-grey?logo=yarn)
 
 - **Tools** 
 <br>![Visual Studio Code](https://img.shields.io/badge/-VS_Code-grey?style=flat&logo=visual-studio-code&logoColor=blue)
@@ -113,6 +114,7 @@ I'm ```Clara Seijo```, **pragmatic front-end developer**
 
 - [**twinkleCircle**](https://clasei.github.io/twinkle-circle/) → *a modern twist on a classic to test your own random access memory*
     - 1st release **» [twinkle-circle v1.0.0](https://github.com/clasei/twinkle-circle/releases/tag/v1.0.0)**
+    - 2nd release **» [twinkle-circle v1.0.2](https://github.com/clasei/twinkle-circle/releases/tag/v1.0.2)**
 
 ---
 
