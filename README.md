@@ -90,7 +90,7 @@ I'm ```Clara Seijo```, **pragmatic front-end developer**
 
 - **Package Managers** 
 <br>![npm](https://img.shields.io/badge/-npm-grey?logo=npm)
-<br>![Yarn](https://img.shields.io/badge/-yarn-grey?logo=yarn)
+![Yarn](https://img.shields.io/badge/-Yarn-grey?logo=yarn)
 
 - **Tools** 
 <br>![Visual Studio Code](https://img.shields.io/badge/-VS_Code-grey?style=flat&logo=visual-studio-code&logoColor=blue)
