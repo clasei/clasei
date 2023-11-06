@@ -94,9 +94,9 @@ I'm ```Clara Seijo```, **pragmatic front-end developer**
 
 - **Tools** 
 <br>![Visual Studio Code](https://img.shields.io/badge/-VS_Code-grey?style=flat&logo=visual-studio-code&logoColor=blue)
-![Lighthouse](https://img.shields.io/badge/-Lighthouse-grey?logo=lighthouse)
 ![WordPress](https://img.shields.io/badge/-WordPress-grey?logo=wordpress)
 ![Elementor](https://img.shields.io/badge/-Elementor-grey?logo=elementor)
+![Lighthouse](https://img.shields.io/badge/-Lighthouse-grey?logo=lighthouse)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-grey?style=flat&logo=cloudflare&logoColor=%23F38020)
 ![Notion](https://img.shields.io/badge/-Notion-grey?style=flat&logo=notion&logoColor=black)
 ![Figma](https://img.shields.io/badge/-Figma-grey?logo=figma)
