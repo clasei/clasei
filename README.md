@@ -94,11 +94,11 @@ I'm ```Clara Seijo```, **pragmatic front-end developer**
 
 - **Tools** 
 <br>![Visual Studio Code](https://img.shields.io/badge/-VS_Code-grey?style=flat&logo=visual-studio-code&logoColor=blue)
-![Notion](https://img.shields.io/badge/-Notion-grey?style=flat&logo=notion&logoColor=black)
+![Lighthouse](https://img.shields.io/badge/-Lighthouse-grey?logo=lighthouse)
 ![WordPress](https://img.shields.io/badge/-WordPress-grey?logo=wordpress)
 ![Elementor](https://img.shields.io/badge/-Elementor-grey?logo=elementor)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-grey?style=flat&logo=cloudflare&logoColor=%23F38020)
-![Lighthouse](https://img.shields.io/badge/-Lighthouse-grey?logo=lighthouse)
+![Notion](https://img.shields.io/badge/-Notion-grey?style=flat&logo=notion&logoColor=black)
 ![Figma](https://img.shields.io/badge/-Figma-grey?logo=figma)
 ![Adobe Creative Cloud](https://img.shields.io/badge/-Adobe_Creative_Cloud-grey?style=flat&logo=adobe-creative-cloud&logoColor=%23DA1F26)
 
