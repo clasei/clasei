@@ -119,7 +119,7 @@ I'm ```Clara Seijo```, **pragmatic front-end developer**
 
 ### Get In Touch
 
-Want to connect? Reach out on [**LinkedIn**](https://www.linkedin.com/in/claraseijo/) or [**X**](https://twitter.com/claraseijo)
+Want to connect? Reach out on [**X**](https://twitter.com/claraseijo) or [**LinkedIn**](https://www.linkedin.com/in/claraseijo/) 
 
 Thoughts? Write to [**clasei@proton.me**](mailto:clasei@proton.me)
 
