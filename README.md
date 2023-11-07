@@ -76,12 +76,14 @@ I'm ```Clara Seijo```, **pragmatic front-end developer**
 <br>![HTML](https://img.shields.io/badge/-HTML-grey?logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-grey?logo=csswizardry)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?logo=javascript)
+![jQuery](https://img.shields.io/badge/-jQuery-grey?logo=jQuery)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-grey?logo=bootstrap)
+![Sass/SCSS](https://img.shields.io/badge/-Sass/SCSS-grey?logo=sass)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-grey?logo=typescript)
 ![Angular](https://img.shields.io/badge/-Angular-grey?logo=angular)
 ![React](https://img.shields.io/badge/-React-grey?logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-grey?logo=node.js)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-grey?logo=bootstrap)
-![Sass/SCSS](https://img.shields.io/badge/-Sass/SCSS-grey?logo=sass)
+
 
 - **Version Control** 
 <br>![Git](https://img.shields.io/badge/-Git-grey?logo=git)
@@ -94,13 +96,13 @@ I'm ```Clara Seijo```, **pragmatic front-end developer**
 
 - **Tools** 
 <br>![Visual Studio Code](https://img.shields.io/badge/-VS_Code-grey?style=flat&logo=visual-studio-code&logoColor=blue)
+![Figma](https://img.shields.io/badge/-Figma-grey?logo=figma)
+![Adobe Creative Cloud](https://img.shields.io/badge/-Adobe_Creative_Cloud-grey?style=flat&logo=adobe-creative-cloud&logoColor=%23DA1F26)
 ![WordPress](https://img.shields.io/badge/-WordPress-grey?logo=wordpress)
 ![Elementor](https://img.shields.io/badge/-Elementor-grey?logo=elementor)
 ![Lighthouse](https://img.shields.io/badge/-Lighthouse-grey?logo=lighthouse)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-grey?style=flat&logo=cloudflare&logoColor=%23F38020)
 ![Notion](https://img.shields.io/badge/-Notion-grey?style=flat&logo=notion&logoColor=black)
-![Figma](https://img.shields.io/badge/-Figma-grey?logo=figma)
-![Adobe Creative Cloud](https://img.shields.io/badge/-Adobe_Creative_Cloud-grey?style=flat&logo=adobe-creative-cloud&logoColor=%23DA1F26)
 
 ---
 
