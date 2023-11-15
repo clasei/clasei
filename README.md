@@ -117,6 +117,8 @@ I'm ```Clara Seijo```, **pragmatic front-end developer**
 - [**twinkleCircle**](https://clasei.github.io/twinkle-circle/) → *a modern twist on a classic to test your own random access memory*
     - last release **» [twinkle-circle v1.0.2](https://github.com/clasei/twinkle-circle/releases/tag/v1.0.2)**
 
+- [**Galactic Hitchhiker**](https://clasei.github.io/galactic-hitchhiker/) → *there's a frood who really knows where his towel is*
+
 ---
 
 ### Get In Touch
