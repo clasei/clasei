@@ -8,6 +8,8 @@ Welcome to my README
 
 I'm ```Clara Seijo```, **pragmatic front-end developer**
 
+🚀 Merging pragmatism and creativity to build user-focused solutions 
+
 ---
 
 ### In a Nutshell
