@@ -78,13 +78,13 @@ I'm ```Clara Seijo```, **pragmatic front-end developer**
 <br>![HTML](https://img.shields.io/badge/-HTML-grey?logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-grey?logo=csswizardry)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?logo=javascript)
-![jQuery](https://img.shields.io/badge/-jQuery-grey?logo=jQuery)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-grey?logo=bootstrap)
 ![Sass/SCSS](https://img.shields.io/badge/-Sass/SCSS-grey?logo=sass)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-grey?logo=typescript)
 ![Angular](https://img.shields.io/badge/-Angular-grey?logo=angular)
 ![React](https://img.shields.io/badge/-React-grey?logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-grey?logo=node.js)
+![Vite](https://img.shields.io/badge/-Vite-grey?logo=Vite)
 
 
 - **Version Control** 
