@@ -28,13 +28,13 @@ I'm ```Clara Seijo```, **pragmatic front-end developer**
 
 - <ins>**User-Centric**</ins> → Making reasoned decisions, considering users' needs and emotions
 
-- <ins>**Functional**</ins> → Every element holds a distinct and meaningful role
-
 - <ins>**Clear & Concise**</ins> → Getting to the point with short & sweet solutions, focusing on the essentials
 
-- <ins>**Inclusive**</ins> → Ensuring that different user groups feel considered and included
+- <ins>**Functional**</ins> → Every element holds a distinct and meaningful role
 
 - <ins>**Minimalistic**</ins> → Removing the unnecessary in both design and code
+
+- <ins>**Inclusive**</ins> → Ensuring that different user groups feel considered and included
 
 ---
 
