@@ -24,17 +24,17 @@ I'm ```Clara Seijo```, **pragmatic front-end developer**
 
 ### Style & Approach 
 
-- **Pragmatic** → ```Prioritizing working solutions with a direct and hands-on approach```
+- <ins>**Pragmatic**</ins> → Prioritizing working solutions with a direct and hands-on approach
 
-- **User-Centric** → ```Making reasoned decisions, considering users' needs and emotions```
+- <ins>**User-Centric**</ins> → Making reasoned decisions, considering users' needs and emotions
 
-- **Functional** → ```Every element holds a distinct and meaningful role```
+- <ins>**Functional**</ins> → Every element holds a distinct and meaningful role
 
-- **Clear & Concise** → ```Getting to the point with short & sweet solutions, focusing on the essentials```
+- <ins>**Clear & Concise**</ins> → Getting to the point with short & sweet solutions, focusing on the essentials
 
-- **Inclusive** → ```Ensuring that different user groups feel considered and included```
+- <ins>**Inclusive**</ins> → Ensuring that different user groups feel considered and included
 
-- **Minimalistic** → ```Removing the unnecessary in both design and code```
+- <ins>**Minimalistic**</ins> → Removing the unnecessary in both design and code
 
 ---
 
