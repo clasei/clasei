@@ -110,10 +110,12 @@ I'm ```Clara Seijo```, **pragmatic front-end developer**
 
 ### Growing Projects
 
+- [**sparkForm**](https://spark-form-7.web.app/) | ```React + Firebase (serverless back-end)``` → *easy signup form to grow your audience*
+
 - [**twinkleCircle**](https://clasei.github.io/twinkle-circle/) | ```React``` → *a modern twist on a classic to test your own random access memory*
     - last release **» [twinkle-circle v1.0.3](https://github.com/clasei/twinkle-circle/releases/tag/v1.0.3)**
 
-- [**neutronLink**](https://neutron-link-0.web.app/) | ```React + serverless back-end (Firebase)``` → *link sharing with spacial simplicity*
+- [**neutronLink**](https://neutron-link-0.web.app/) | ```React + Firebase (serverless back-end)``` → *link sharing with spacial simplicity*
 
 - [**galacticHitchhiker**](https://clasei.github.io/galactic-hitchhiker/) | ```Angular``` → *there's a frood who really knows where his towel is*
 
