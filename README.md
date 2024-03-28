@@ -119,7 +119,7 @@ I'm ```Clara Seijo```, **pragmatic front-end developer**
 
 - [**neutronLink**](https://neutron-link-0.web.app/) | ```React + Firebase (serverless back-end)``` → *link sharing with spacial simplicity*
 
-- [**galacticHitchhiker**](https://clasei.github.io/galactic-hitchhiker/) | ```Angular``` → *there's a frood who really knows where his towel is*
+- [**galacticHitchhiker**](https://clasei.github.io/galactic-hitchhiker/) | ```Angular``` → *there's a frood who really knows where his towel is!*
 
 - [**quantumCookies**](https://clasei.github.io/quantum-cookies/) | ```Angular``` → *like fortune cookies, but making sense — a quick check-in with yourself and Feynman*
 
