@@ -110,6 +110,8 @@ I'm ```Clara Seijo```, **pragmatic front-end developer**
 
 ### Growing Projects
 
+- [**bioLink**](https://clasei.github.io/clara/) | ```React``` → *this is just another biolink... right?*
+
 - [**sparkForm**](https://spark-form-7.web.app/) | ```React + Firebase (serverless back-end)``` → *easy signup form to grow your audience*
 
 - [**twinkleCircle**](https://clasei.github.io/twinkle-circle/) | ```React``` → *a modern twist on a classic to test your own random access memory*
