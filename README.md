@@ -1,4 +1,4 @@
-# clara seijo 🚀 pragmatic front-end developer
+# clara seijo 🚀 pragmatic full-stack developer
 
 [<img src="cla_sei_profile_pic_bw_circle.png" alt="clasei profile pic" width="150"/>](https://github.com/clasei/)
 
@@ -6,7 +6,7 @@
 
 Welcome to my README
 
-I'm ```Clara Seijo```, **pragmatic front-end developer**
+I'm ```Clara Seijo```, **pragmatic full-stack developer**
 
 🚀 Merging pragmatism and creativity to build user-focused solutions 
 
@@ -45,6 +45,7 @@ I'm ```Clara Seijo```, **pragmatic front-end developer**
 - Frameworks: Angular, React
 - Libraries: jQuery, Bootstrap
 - Version Control: Git, GitHub, GitLab
+- Firebase
 - Good Coding Practices
 - Responsive Design
 - Flexbox & CSS Grid
@@ -85,6 +86,7 @@ I'm ```Clara Seijo```, **pragmatic front-end developer**
 ![React](https://img.shields.io/badge/-React-grey?logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-grey?logo=node.js)
 ![Vite](https://img.shields.io/badge/-Vite-grey?logo=Vite)
+![Firebase](https://img.shields.io/badge/-Firebase-grey?logo=firebase)
 
 
 - **Version Control** 
