@@ -1,4 +1,4 @@
-# clara seijo 🚀 pragmatic full-stack developer
+# clara seijo 🚀 pragmatic front-end developer
 
 [<img src="cla_sei_profile_pic_bw_circle.png" alt="clasei profile pic" width="150"/>](https://github.com/clasei/)
 
@@ -6,7 +6,7 @@
 
 Welcome to my README
 
-I'm ```Clara Seijo```, **pragmatic full-stack developer**
+I'm ```Clara Seijo```, **pragmatic front-end developer**
 
 🚀 Merging pragmatism and creativity to build user-focused solutions 
 
