@@ -42,7 +42,7 @@ I'm ```Clara Seijo```, **pragmatic front-end developer**
 
 ```
 - HTML, CSS, JS
-- Frameworks: Angular, React
+- Frameworks: React, Angular
 - Libraries: jQuery, Bootstrap
 - Version Control: Git, GitHub, GitLab
 - Firebase
@@ -82,8 +82,8 @@ I'm ```Clara Seijo```, **pragmatic front-end developer**
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-grey?logo=bootstrap)
 ![Sass/SCSS](https://img.shields.io/badge/-Sass/SCSS-grey?logo=sass)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-grey?logo=typescript)
-![Angular](https://img.shields.io/badge/-Angular-grey?logo=angular)
 ![React](https://img.shields.io/badge/-React-grey?logo=react)
+![Angular](https://img.shields.io/badge/-Angular-grey?logo=angular)
 ![Node.js](https://img.shields.io/badge/-Node.js-grey?logo=node.js)
 ![Vite](https://img.shields.io/badge/-Vite-grey?logo=Vite)
 ![Firebase](https://img.shields.io/badge/-Firebase-grey?logo=firebase)
