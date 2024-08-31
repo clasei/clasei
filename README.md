@@ -140,6 +140,9 @@ Want to connect? Reach out on [**LinkedIn**](https://www.linkedin.com/in/clarase
 
 Thoughts? Write to [**clasei@proton.me**](mailto:clasei@proton.me)
 
+
+---
+
 Make a nice day, one line at a time
 
 ```[ build, don't talk ]```
