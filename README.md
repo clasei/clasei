@@ -134,7 +134,7 @@ I'm ```Clara Seijo```, **pragmatic front-end developer**
 
 ---
 
-### > > > Get In Touch
+### > Get In Touch
 
 Want to connect? Reach out on [**LinkedIn**](https://www.linkedin.com/in/claraseijo/)
 
