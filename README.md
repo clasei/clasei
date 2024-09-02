@@ -8,7 +8,7 @@ Welcome to my README
 
 I'm ```Clara Seijo```, **front-end developer**
 
-🚀 Growing my skills to craft innovative, user-centric web solutions
+📍 Growing my skills to craft innovative, user-centric web solutions
 
 ---
 
