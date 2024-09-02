@@ -1,4 +1,4 @@
-# clara seijo 🚀 pragmatic front-end developer
+# clara seijo 🚀 front-end developer
 
 [<img src="cla_sei_profile_pic_bw_circle.png" alt="clasei profile pic" width="150"/>](https://clasei.github.io/clara/)
 
@@ -6,9 +6,9 @@
 
 Welcome to my README
 
-I'm ```Clara Seijo```, **pragmatic front-end developer**
+I'm ```Clara Seijo```, **front-end developer**
 
-🚀 Merging pragmatism and creativity to build user-focused solutions 
+🚀 Growing my skills to craft innovative, user-centric web solutions.
 
 ---
 
@@ -131,6 +131,7 @@ I'm ```Clara Seijo```, **pragmatic front-end developer**
 
 - [**matterAnimation**](https://clasei.github.io/matter-animation/) | ```JS``` → *a simple and accessible way to create animations with Matter.js*
 
+```/* Merging pragmatism and creativity to build user-focused solutions */```
 
 ---
 
@@ -139,7 +140,6 @@ I'm ```Clara Seijo```, **pragmatic front-end developer**
 Want to connect? Reach out on [**LinkedIn**](https://www.linkedin.com/in/claraseijo/)
 
 Thoughts? Write to [**clasei@proton.me**](mailto:clasei@proton.me)
-
 
 ---
 
