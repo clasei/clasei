@@ -8,7 +8,7 @@ Welcome to my README
 
 I'm ```Clara Seijo```, **front-end developer**
 
-🚀 Growing my skills to craft innovative, user-centric web solutions.
+🚀 Growing my skills to craft innovative, user-centric web solutions
 
 ---
 
@@ -112,6 +112,8 @@ I'm ```Clara Seijo```, **front-end developer**
 
 ### Growing Projects
 
+```/* Merging pragmatism and creativity to build user-focused solutions */```
+
 - [**bioLink**](https://clasei.github.io/clara/) | ```React``` → *this is just another biolink... right?*
 
 - [**sparkForm**](https://spark-form-7.web.app/) | ```React + Firebase (serverless back-end)``` → *easy signup form to grow your audience*
@@ -130,8 +132,6 @@ I'm ```Clara Seijo```, **front-end developer**
 - [**spaceTime**](https://clasei.github.io/space-time/) | ```JS``` → *an easy way to look at time while you are in your space*
 
 - [**matterAnimation**](https://clasei.github.io/matter-animation/) | ```JS``` → *a simple and accessible way to create animations with Matter.js*
-
-```/* Merging pragmatism and creativity to build user-focused solutions */```
 
 ---
 
