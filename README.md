@@ -45,6 +45,8 @@ I'm ```Clara Seijo```, **Full-Stack Developer**.
   - Express
   - Axios
   - JSON
+  - JSON Server
+  - APIs, RESTful APIs
   - Firebase
   ```
 
