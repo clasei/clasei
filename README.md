@@ -24,8 +24,6 @@ I'm ```Clara Seijo```, **Full-Stack Developer**.
 
 ### Technical Skills
 
-### Technical Skills
-
 - **Front-End**
   ```
   - HTML, CSS
