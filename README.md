@@ -22,7 +22,7 @@ I'm ```Clara Seijo```, **Full-Stack Developer**.
 
 ---
 
-### Technical Skills
+### Tech Skills
 
 - **Front-End**
   ```
