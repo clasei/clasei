@@ -147,12 +147,10 @@ I'm ```Clara Seijo```, **Full-Stack Developer**.
 
 ### > Get In Touch
 
-Want to connect? Reach out on [**LinkedIn**](https://www.linkedin.com/in/claraseijo/)
-
 Thoughts? Write to [**clasei@proton.me**](mailto:clasei@proton.me)
+
+Want to connect? Reach out on [**LinkedIn**](https://www.linkedin.com/in/claraseijo/)
 
 ---
 
-Make a nice day, one line at a time
-
-```[ build, don't talk ]```
+```[ make a nice day, one line at a time ]```
