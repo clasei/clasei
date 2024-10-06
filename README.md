@@ -2,7 +2,7 @@
 
 [<img src="cla_sei_profile_pic_bw_circle.png" alt="clasei profile pic" width="150"/>](https://clasei.github.io/clara/)
 
-### Hi! 
+### Hi 👋🏽
 
 Welcome to my README.
 
@@ -28,6 +28,7 @@ I'm ```Clara Seijo```, **Full-Stack Developer**.
   ```
   - HTML, CSS, JS
   - React (Core), Angular
+  - Vite
   - Responsive Design
   - Accessibility
   - Optimization
