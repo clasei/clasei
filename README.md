@@ -22,6 +22,50 @@ I'm ```Clara Seijo```, **full-stack developer**
 
 ---
 
+### Technical Skills
+
+- **Front-End**
+  ```
+  - HTML, CSS, JS
+  - React (Core), Angular
+  - Responsive Design
+  - Accessibility
+  - Optimization
+  - UX/UI Design Principles
+    ```
+
+- **Back-End**
+  ```
+  - Node.js
+  - Axios
+  - Firebase
+  - JSON
+  - Git, GitHub, GitLab
+    ```
+
+- **Overall**
+  ```
+  - Neat Documentation
+  - Good Coding Practices
+  - Agile Methodologies
+  - Project Management
+  ```
+
+---
+
+### Soft Skills
+```
+- Problem Solving
+- Effective Communication
+- Team Player
+- Continuous Learning
+- Adaptability & Resilience
+- Attention to Detail
+- Determination
+```
+
+---
+
 ### Style & Approach 
 
 - <ins>**Pragmatic**</ins> → Prioritizing working solutions with a direct and hands-on approach
@@ -35,41 +79,6 @@ I'm ```Clara Seijo```, **full-stack developer**
 - <ins>**Minimalistic**</ins> → Removing the unnecessary in both design and code
 
 - <ins>**Inclusive**</ins> → Ensuring that different user groups feel considered and included
-
----
-
-### Skills 
-
-```
-- HTML, CSS, JS
-- Frameworks: React, Angular
-- Libraries: jQuery, Bootstrap
-- Version Control: Git, GitHub, GitLab
-- Firebase
-- Good Coding Practices
-- Responsive Design
-- Flexbox & CSS Grid
-- Accessibility
-- UX/UI Design Principles
-- Web Optimization
-- Cross-Browser Compatibility
-- SEO Techniques
-```
-
----
-
-### Soft Skills
-
-```
-- Effective Communication
-- Team Player
-- Continuous Learning
-- Problem Solving
-- Adaptability
-- Attention to Detail
-- Resilience
-- Determination
-```
 
 ---
 
