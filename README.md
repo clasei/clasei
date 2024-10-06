@@ -26,7 +26,9 @@ I'm ```Clara Seijo```, **Full-Stack Developer**.
 
 - **Front-End**
   ```
-  - HTML, CSS, JS
+  - HTML, CSS
+  - Bootstrap, Material UI
+  - JavaScript (Core), TypeScript
   - React (Core), Angular
   - Vite
   - Responsive Design
