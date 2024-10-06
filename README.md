@@ -79,21 +79,21 @@ I'm ```Clara Seijo```, **Full-Stack Developer**.
 
 ---
 
-### Style & Approach
+### Style & Approach 
 
-- **Pragmatic** -> Prioritizing working solutions with a hands-on approach across both front-end and back-end development.
+- <ins>**Pragmatic**</ins> → Prioritizing working solutions with a hands-on approach across both front-end and back-end development.
 
-- **User-Centric** -> Making reasoned decisions by considering users' needs and emotions, ensuring functional and aesthetically pleasing interfaces while maintaining robust backend logic.
+- <ins>**User-Centric**</ins> → Making reasoned decisions by considering users' needs and emotions, ensuring functional and aesthetically pleasing interfaces while maintaining robust backend logic.
 
-- **Clear & Concise** -> Focusing on clear, efficient, and maintainable code, delivering straightforward solutions that address core functionality across the full stack.
+- <ins>**Clear & Concise**</ins> → Focusing on clear, efficient, and maintainable code, delivering straightforward solutions that address core functionality across the full stack.
 
-- **Functional** -> Ensuring every element and function in both the user interface and server-side processing holds a distinct and meaningful role.
+- <ins>**Functional**</ins> → Ensuring every element and function in both the user interface and server-side processing holds a distinct and meaningful role.
 
-- **Minimalistic** -> Removing the unnecessary in both design and code, optimizing performance and user experience with clean and efficient structures.
+- <ins>**Minimalistic**</ins> → Removing the unnecessary in both design and code, optimizing performance and user experience with clean and efficient structures.
 
-- **Inclusive** -> Designing and implementing features that are accessible and accommodating to diverse user groups, applying best practices in accessibility across the entire application.
+- <ins>**Inclusive**</ins> → Designing and implementing features that are accessible and accommodating to diverse user groups, applying best practices in accessibility across the entire application.
 
-- **Logical & Scalable** -> Applying a logical, structured approach to backend architecture that supports scalability and security, mirroring the strategic thinking skills used in chess and puzzle-solving to optimize system performance and resource management.
+- <ins>**Logical & Scalable**</ins> → Applying a logical, structured approach to backend architecture while supporting scalability and efficient resource management.
 
 ---
 
