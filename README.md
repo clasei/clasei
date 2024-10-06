@@ -24,27 +24,36 @@ I'm ```Clara Seijo```, **Full-Stack Developer**.
 
 ### Technical Skills
 
+### Technical Skills
+
 - **Front-End**
   ```
   - HTML, CSS
   - Bootstrap, Material UI
-  - JavaScript (Core), TypeScript
-  - React (Core), Angular
+  - JavaScript (Focus on)
+  - TypeScript
+  - React (Focus on)
+  - Angular
   - Vite
   - Responsive Design
   - Accessibility
   - Optimization
   - UX/UI Design Principles
-    ```
+  ```
 
 - **Back-End**
   ```
   - Node.js
+  - Express
   - Axios
-  - Firebase
   - JSON
+  - Firebase
+  ```
+
+- **Version Control**
+  ```
   - Git, GitHub, GitLab
-    ```
+  ```
 
 - **Overall**
   ```
@@ -53,6 +62,7 @@ I'm ```Clara Seijo```, **Full-Stack Developer**.
   - Agile Methodologies
   - Project Management
   ```
+
 
 ---
 
