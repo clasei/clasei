@@ -1,14 +1,14 @@
-# Clara Seijo 🚀 Full-Stack Developer
+# Clara Seijo | Full-Stack Developer
 
 [<img src="cla_sei_profile_pic_bw_circle.png" alt="clasei profile pic" width="150"/>](https://clasei.github.io/clara/)
 
 ### Hi there! 
 
-Welcome to my README
+Welcome to my README.
 
-I'm ```Clara Seijo```, **full-stack developer**
+I'm ```Clara Seijo```, **Full-Stack Developer**.
 
-📍 Growing my skills to craft innovative, user-centric web solutions
+📍 Growing my skills to craft innovative, user-centric web solutions.
 
 ---
 
