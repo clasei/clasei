@@ -136,7 +136,6 @@ I'm ```Clara Seijo```, **Full-Stack Developer**.
 
 ### Growing Projects
 
-```/* Merging pragmatism and creativity to build innovative, scalable, user-focused solutions */```
 
 - [**bioLink**](https://clasei.github.io/clara/) | ```React``` → *this is just another biolink... right?*
 
