@@ -8,7 +8,7 @@ Welcome to my README.
 
 I'm ```Clara Seijo```, **Full-Stack Developer**.
 
-📍 Growing my skills to craft innovative, user-centric web solutions.
+📍 Growing my skills to craft innovative, scalable, user-centric web solutions.
 
 ---
 
