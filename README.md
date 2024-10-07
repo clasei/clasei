@@ -95,38 +95,42 @@ I'm ```Clara Seijo```, **Full-Stack Developer**.
 
 ### Keywords
 
-- **Development** 
-<br>![HTML](https://img.shields.io/badge/-HTML-grey?logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-grey?logo=csswizardry)
-![JavaScript](https://img.shields.io/badge/-JavaScript-grey?logo=javascript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-grey?logo=bootstrap)
-![Sass/SCSS](https://img.shields.io/badge/-Sass/SCSS-grey?logo=sass)
-![TypeScript](https://img.shields.io/badge/-TypeScript-grey?logo=typescript)
-![React](https://img.shields.io/badge/-React-grey?logo=react)
-![Angular](https://img.shields.io/badge/-Angular-grey?logo=angular)
-![Node.js](https://img.shields.io/badge/-Node.js-grey?logo=node.js)
-![Vite](https://img.shields.io/badge/-Vite-grey?logo=Vite)
-![Firebase](https://img.shields.io/badge/-Firebase-grey?logo=firebase)
+- **Front-End**
+  <br>![HTML](https://img.shields.io/badge/-HTML-grey?logo=html5)
+  ![CSS](https://img.shields.io/badge/-CSS-grey?logo=csswizardry)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-grey?logo=bootstrap)
+  ![Material UI](https://img.shields.io/badge/-Material_UI-grey?logo=material-ui)
+  ![JavaScript (Focus)](https://img.shields.io/badge/-JavaScript-grey?logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-grey?logo=typescript)
+  ![React (Focus)](https://img.shields.io/badge/-React-grey?logo=react)
+  ![Angular](https://img.shields.io/badge/-Angular-grey?logo=angular)
+  ![Vite](https://img.shields.io/badge/-Vite-grey?logo=vite)
 
+- **Back-End**
+  <br>![Node.js](https://img.shields.io/badge/-Node.js-grey?logo=node.js)
+  ![Express](https://img.shields.io/badge/-Express-grey?logo=express)
+  ![Axios](https://img.shields.io/badge/-Axios-grey?logo=axios)
+  ![JSON](https://img.shields.io/badge/-JSON-grey?logo=json)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-grey?logo=mongodb)
+  ![Firebase](https://img.shields.io/badge/-Firebase-grey?logo=firebase)
 
 - **Version Control** 
-<br>![Git](https://img.shields.io/badge/-Git-grey?logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-grey?logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-grey?logo=gitlab)
+  <br>![Git](https://img.shields.io/badge/-Git-grey?logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-grey?logo=github)
+  ![GitLab](https://img.shields.io/badge/-GitLab-grey?logo=gitlab)
 
 - **Package Managers** 
-<br>![npm](https://img.shields.io/badge/-npm-grey?logo=npm)
-![Yarn](https://img.shields.io/badge/-Yarn-grey?logo=yarn)
+  <br>![npm](https://img.shields.io/badge/-npm-grey?logo=npm)
+  ![Yarn](https://img.shields.io/badge/-Yarn-grey?logo=yarn)
 
 - **Tools** 
-<br>![Visual Studio Code](https://img.shields.io/badge/-VS_Code-grey?style=flat&logo=visual-studio-code&logoColor=blue)
-![Figma](https://img.shields.io/badge/-Figma-grey?logo=figma)
-![Adobe Creative Cloud](https://img.shields.io/badge/-Adobe_Creative_Cloud-grey?style=flat&logo=adobe-creative-cloud&logoColor=%23DA1F26)
-![WordPress](https://img.shields.io/badge/-WordPress-grey?logo=wordpress)
-![Elementor](https://img.shields.io/badge/-Elementor-grey?logo=elementor)
-![Lighthouse](https://img.shields.io/badge/-Lighthouse-grey?logo=lighthouse)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-grey?style=flat&logo=cloudflare&logoColor=%23F38020)
-![Notion](https://img.shields.io/badge/-Notion-grey?style=flat&logo=notion&logoColor=black)
+  <br>![Visual Studio Code](https://img.shields.io/badge/-VS_Code-grey?style=flat&logo=visual-studio-code&logoColor=blue)
+  ![Figma](https://img.shields.io/badge/-Figma-grey?logo=figma)
+  ![Adobe Creative Cloud](https://img.shields.io/badge/-Adobe_Creative_Cloud-grey?style=flat&logo=adobe-creative-cloud&logoColor=%23DA1F26)
+  ![Lighthouse](https://img.shields.io/badge/-Lighthouse-grey?logo=lighthouse)
+  ![Cloudflare](https://img.shields.io/badge/-Cloudflare-grey?style=flat&logo=cloudflare&logoColor=%23F38020)
+  ![Notion](https://img.shields.io/badge/-Notion-grey?style=flat&logo=notion&logoColor=black)
+  ![Trello](https://img.shields.io/badge/-Trello-grey?logo=trello)
 
 ---
 
