@@ -1,6 +1,6 @@
 # Clara Seijo | Full-Stack Developer
 
-[<img src="cla_sei_profile_pic_bw_circle.png" alt="clasei profile pic" width="150"/>](https://clasei.github.io/clara/)
+[<img src="clara-seijo-circle-bw.png" alt="clara-seijo-profile-picture" width="150"/>](https://clasei.github.io/clara/)
 
 ### Hi 👋🏽
 
