@@ -98,8 +98,6 @@ I'm ```Clara Seijo```, **Full-Stack Developer**.
 - **Front-End**
   <br>![HTML](https://img.shields.io/badge/-HTML-grey?logo=html5)
   ![CSS](https://img.shields.io/badge/-CSS-grey?logo=csswizardry)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-grey?logo=bootstrap)
-  ![Material UI](https://img.shields.io/badge/-Material_UI-grey?logo=material-ui)
   ![JavaScript (Focus)](https://img.shields.io/badge/-JavaScript-grey?logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-grey?logo=typescript)
   ![React (Focus)](https://img.shields.io/badge/-React-grey?logo=react)
