@@ -26,7 +26,7 @@ I'm ```Clara Seijo```, **Full-Stack Developer**.
 
 - **Front-End**
   ```
-  - HTML, CSS, Bootstrap
+  - HTML, CSS
   - JavaScript (Focus on)
   - TypeScript
   - React (Focus on)
