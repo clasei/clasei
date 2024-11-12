@@ -164,4 +164,6 @@ Thoughts? Write to [**clasei@proton.me**](mailto:clasei@proton.me)
 
 Want to connect? Reach out on [**LinkedIn**](https://www.linkedin.com/in/claraseijo/)
 
+---
+
 ```[ make a nice day, one line at a time ]```
