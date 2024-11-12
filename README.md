@@ -141,12 +141,12 @@ I'm ```Clara Seijo```, **Full-Stack Developer**.
 
 - [**bioLink**](https://clasei.github.io/clara/) | ```React``` → *this is just another biolink... right?*
 
-- [**sparkForm**](https://spark-form-7.web.app/) | ```React + Firebase (serverless back-end)``` → *easy signup form to grow your audience*
+- [**sparkForm**](https://spark-form-7.web.app/) | ```React + Firebase``` → *easy signup form to grow your audience*
 
 - [**twinkleCircle**](https://clasei.github.io/twinkle-circle/) | ```React``` → *a modern twist on a classic to test your own random access memory*
     - last release **» [twinkle-circle v1.0.3](https://github.com/clasei/twinkle-circle/releases/tag/v1.0.3)**
 
-- [**neutronLink**](https://neutron-link-0.web.app/) | ```React + Firebase (serverless back-end)``` → *link sharing with spacial simplicity*
+- [**neutronLink**](https://neutron-link-0.web.app/) | ```React + Firebase``` → *link sharing with spacial simplicity*
 
 - [**pragmaticFooter**](https://clasei.github.io/pragmatic-footer/) | ```React``` → *this is a pragmatic footer*
 
