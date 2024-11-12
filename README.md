@@ -135,7 +135,7 @@ I'm ```Clara Seijo```, **Full-Stack Developer**.
 
 - [**recup**](https://just-recup.netlify.app/) | ```MongoDB + Express + React + NodeJS``` → *This is a platform dedicated to highlighting content worth sharing, bringing you genuine recommendations from real people. Cut through the noise and find what truly matters, all in one place.*
 
-- [**HeroZone**](https://herozone.netlify.app/) | ```React + Marvel API``` { **team project with emxgrz** } → *HeroZone is an interactive app where users can explore a vast collection of Marvel characters, comics, and related information. Additionally, users can create their own custom superheroes with unique abilities and attributes.*
+- [**HeroZone**](https://herozone.netlify.app/) | ```React + Marvel API``` { team project with emxgrz } → *HeroZone is an interactive app where users can explore a vast collection of Marvel characters, comics, and related information. Additionally, users can create their own custom superheroes with unique abilities and attributes.*
 
 - [**SpaceHitchhikers**](https://clasei.github.io/space-hitchhikers/) | ```React``` → *SpaceHitchhikers — the game: you are a human traveling through space, get your towel and survive for 4’ 20” -- made for big screens*
 
