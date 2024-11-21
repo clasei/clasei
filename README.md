@@ -6,8 +6,6 @@ Welcome to my README.
 
 I'm ```Clara Seijo```, **Full-Stack Developer**.
 
-📍 Growing my skills to craft effective, scalable, user-centric web solutions.
-
 ---
 
 ### In a Nutshell
@@ -20,7 +18,20 @@ I'm ```Clara Seijo```, **Full-Stack Developer**.
 
 ---
 
-### Tech Skills
+### ⬡ Style & Approach 
+
+- <ins>**Pragmatic**</ins> → Prioritizing working solutions with a hands-on approach across both front-end and back-end development.
+
+- <ins>**User-Centric & Inclusive**</ins> → Designing and implementing features that are both functional and accessible, ensuring a seamless experience for a diverse range of users by considering their needs and emotions.
+
+- <ins>**Concise & Functional**</ins> → Delivering straightforward solutions that focus on essential functionalities with clear, efficient, and maintainable code and design.
+
+- <ins>**Minimalistic**</ins> → Optimizing performance and user experience by removing unnecessary elements in both design and code.
+
+- <ins>**Logical & Scalable**</ins> → Applying a logical, structured approach to backend architecture while supporting scalability and efficient resource management.
+
+
+### ⬡ Tech Skills
 
 - **Front-End**
   ```
@@ -61,9 +72,7 @@ I'm ```Clara Seijo```, **Full-Stack Developer**.
   ```
 
 
----
-
-### Soft Skills
+### ⬡ Soft Skills
 ```
 - Problem Solving
 - Effective Communication
@@ -74,23 +83,7 @@ I'm ```Clara Seijo```, **Full-Stack Developer**.
 - Determination
 ```
 
----
-
-### Style & Approach 
-
-- <ins>**Pragmatic**</ins> → Prioritizing working solutions with a hands-on approach across both front-end and back-end development.
-
-- <ins>**User-Centric & Inclusive**</ins> → Designing and implementing features that are both functional and accessible, ensuring a seamless experience for a diverse range of users by considering their needs and emotions.
-
-- <ins>**Concise & Functional**</ins> → Delivering straightforward solutions that focus on essential functionalities with clear, efficient, and maintainable code and design.
-
-- <ins>**Minimalistic**</ins> → Optimizing performance and user experience by removing unnecessary elements in both design and code.
-
-- <ins>**Logical & Scalable**</ins> → Applying a logical, structured approach to backend architecture while supporting scalability and efficient resource management.
-
----
-
-### Keywords
+### ⬡ Keywords
 
 - **Front-End**
   <br>![HTML](https://img.shields.io/badge/-HTML-grey?logo=html5)
@@ -127,9 +120,8 @@ I'm ```Clara Seijo```, **Full-Stack Developer**.
   ![Notion](https://img.shields.io/badge/-Notion-grey?style=flat&logo=notion&logoColor=black)
   ![Trello](https://img.shields.io/badge/-Trello-grey?logo=trello)
 
----
 
-### Projects
+### ⬡ Projects
 
 - [**recup**](https://just-recup.netlify.app/) | ```MongoDB + Express + React + NodeJS``` → *This is a platform dedicated to highlighting content worth sharing, bringing you genuine recommendations from real people. Cut through the noise and find what truly matters, all in one place.*
 
@@ -160,9 +152,9 @@ I'm ```Clara Seijo```, **Full-Stack Developer**.
 
 ### Get In Touch
 
-Thoughts? Write to [**clasei@proton.me**](mailto:clasei@proton.me)
+✉️ Thoughts? Write to [**clasei@proton.me**](mailto:clasei@proton.me)
 
-Want to connect? Reach out on [**LinkedIn**](https://www.linkedin.com/in/claraseijo/)
+🐧 Want to connect? Reach out on [**LinkedIn**](https://www.linkedin.com/in/claraseijo/)
 
 ---
 
