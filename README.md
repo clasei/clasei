@@ -1,4 +1,4 @@
-# Clara Seijo | Full-Stack Developer
+## Clara Seijo | Full-Stack Developer
 
 ### Hi 👋🏽
 
