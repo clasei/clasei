@@ -18,7 +18,7 @@ I'm ```Clara Seijo```, **Full-Stack Developer**.
 
 ---
 
-### ⬡ Style & Approach 
+### Style & Approach 
 
 - <ins>**Pragmatic**</ins> → Prioritizing working solutions with a hands-on approach across both front-end and back-end development.
 
@@ -30,6 +30,7 @@ I'm ```Clara Seijo```, **Full-Stack Developer**.
 
 - <ins>**Logical & Scalable**</ins> → Applying a logical, structured approach to backend architecture while supporting scalability and efficient resource management.
 
+---
 
 ### ⬡ Tech Skills
 
