@@ -1,7 +1,5 @@
 # Clara Seijo | Full-Stack Developer
 
-[<img src="clara-seijo-circle-bw.png" alt="clara-seijo-profile-picture" width="150" />](https://www.linkedin.com/in/claraseijo/)
-
 ### Hi 👋🏽
 
 Welcome to my README.
