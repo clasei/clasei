@@ -32,6 +32,10 @@ I'm ```Clara Seijo```, **Junior Full-Stack Developer**.
 
 ---
 
+
+<img width="1159" alt="image" src="https://github.com/user-attachments/assets/d9800bf6-120a-44c0-83ef-1fab1032eabb" />
+
+
 ### ⬡ Tech Skills
 
 - **Front-End**
@@ -84,7 +88,7 @@ I'm ```Clara Seijo```, **Junior Full-Stack Developer**.
   ```
 - Problem Solving
 - Logical Thinking
-- Communication Skills
+- Communication
 - Team Collaboration
 - Proactivity
 - Resilience
@@ -135,6 +139,9 @@ I'm ```Clara Seijo```, **Junior Full-Stack Developer**.
   ![Cloudflare](https://img.shields.io/badge/-Cloudflare-grey?style=flat&logo=cloudflare&logoColor=%23F38020)
   ![Notion](https://img.shields.io/badge/-Notion-grey?style=flat&logo=notion&logoColor=black)
   ![Trello](https://img.shields.io/badge/-Trello-grey?logo=trello)
+  
+
+<img width="1159" alt="image" src="https://github.com/user-attachments/assets/b6efb3f4-c027-4e79-b12d-2fb4175ffe99" />
 
 
 ### ⬡ Projects
