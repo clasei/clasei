@@ -1,10 +1,10 @@
-## Clara Seijo | Dev
+## Clara Seijo | Full-Stack Dev
 
 ### Hi 👋🏽
 
 Welcome to my README.
 
-I'm ```Clara Seijo```, **Full-Stack Developer**.
+I'm ```Clara Seijo```, **Junior Full-Stack Developer**.
 
 ---
 
@@ -36,10 +36,10 @@ I'm ```Clara Seijo```, **Full-Stack Developer**.
 
 - **Front-End**
   ```
-  - HTML, CSS
-  - JavaScript (Focus on)
+  - HTML5, CSS3
+  - JavaScript
   - TypeScript
-  - React (Focus on)
+  - React
   - Angular
   - Vite
   - Responsive Design
@@ -52,16 +52,23 @@ I'm ```Clara Seijo```, **Full-Stack Developer**.
   ```
   - Node.js
   - Express
+  - SQL
+  - MongoDB
   - Axios
   - JSON
   - JSON Server
-  - APIs, RESTful APIs
+  - APIs (Third-Party & RESTful)
+  - JWT Authentication
   - Firebase
+  - Python
+  - Jupyter Notebooks
   ```
 
 - **Version Control**
   ```
-  - Git, GitHub, GitLab
+  - Git
+  - GitHub
+  - GitLab
   ```
 
 - **Overall**
@@ -74,45 +81,53 @@ I'm ```Clara Seijo```, **Full-Stack Developer**.
 
 
 ### ⬡ Soft Skills
-```
+  ```
 - Problem Solving
-- Effective Communication
-- Team Player
-- Continuous Learning
-- Adaptability & Resilience
+- Logical Thinking
+- Communication Skills
+- Team Collaboration
+- Proactivity
+- Resilience
 - Attention to Detail
+- Continuous Learning
 - Determination
-```
+  ```
 
 ### ⬡ Keywords
 
 - **Front-End**
   <br>![HTML](https://img.shields.io/badge/-HTML-grey?logo=html5)
-  ![CSS](https://img.shields.io/badge/-CSS-grey?logo=csswizardry)
+  ![CSS](https://img.shields.io/badge/-CSS-grey?logo=css3)
   ![JavaScript (Focus)](https://img.shields.io/badge/-JavaScript-grey?logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-grey?logo=typescript)
   ![React (Focus)](https://img.shields.io/badge/-React-grey?logo=react)
   ![Angular](https://img.shields.io/badge/-Angular-grey?logo=angular)
   ![Vite](https://img.shields.io/badge/-Vite-grey?logo=vite)
+  ![Responsive Design](https://img.shields.io/badge/-Responsive_Design-grey?logo=responsive)
+  ![Accessibility](https://img.shields.io/badge/-Accessibility-grey?logo=accessibility)
 
 - **Back-End**
   <br>![Node.js](https://img.shields.io/badge/-Node.js-grey?logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-grey?logo=express)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-grey?logo=mongodb)
+  ![SQL](https://img.shields.io/badge/-SQL-grey?logo=sql)
   ![Axios](https://img.shields.io/badge/-Axios-grey?logo=axios)
   ![JSON](https://img.shields.io/badge/-JSON-grey?logo=json)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-grey?logo=mongodb)
+  ![JWT Authentication](https://img.shields.io/badge/-JWT-grey?logo=jwt)
   ![Firebase](https://img.shields.io/badge/-Firebase-grey?logo=firebase)
+  ![Python](https://img.shields.io/badge/-Python-grey?logo=python)
+  ![Jupyter Notebooks](https://img.shields.io/badge/-Jupyter_Notebooks-grey?logo=jupyter)
 
-- **Version Control** 
+- **Version Control**
   <br>![Git](https://img.shields.io/badge/-Git-grey?logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-grey?logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-grey?logo=gitlab)
 
-- **Package Managers** 
+- **Package Managers**
   <br>![npm](https://img.shields.io/badge/-npm-grey?logo=npm)
   ![Yarn](https://img.shields.io/badge/-Yarn-grey?logo=yarn)
 
-- **Tools** 
+- **Tools**
   <br>![Visual Studio Code](https://img.shields.io/badge/-VS_Code-grey?style=flat&logo=visual-studio-code&logoColor=blue)
   ![Figma](https://img.shields.io/badge/-Figma-grey?logo=figma)
   ![Adobe Creative Cloud](https://img.shields.io/badge/-Adobe_Creative_Cloud-grey?style=flat&logo=adobe-creative-cloud&logoColor=%23DA1F26)
