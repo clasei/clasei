@@ -18,20 +18,6 @@ I'm ```Clara Seijo```, **Junior Full-Stack Developer**.
 
 ---
 
-### Style & Approach 
-
-- <ins>**Pragmatic**</ins> → Prioritizing working solutions with a hands-on approach across both front-end and back-end development.
-
-- <ins>**User-Centric & Inclusive**</ins> → Designing and implementing features that are both functional and accessible, ensuring a seamless experience for a diverse range of users by considering their needs and emotions.
-
-- <ins>**Concise & Functional**</ins> → Delivering straightforward solutions that focus on essential functionalities with clear, efficient, and maintainable code and design.
-
-- <ins>**Minimalistic**</ins> → Optimizing performance and user experience by removing unnecessary elements in both design and code.
-
-- <ins>**Logical & Scalable**</ins> → Applying a logical, structured approach to backend architecture while supporting scalability and efficient resource management.
-
----
-
 
 <img width="1159" alt="image" src="https://github.com/user-attachments/assets/d9800bf6-120a-44c0-83ef-1fab1032eabb" />
 
@@ -96,6 +82,22 @@ I'm ```Clara Seijo```, **Junior Full-Stack Developer**.
 - Continuous Learning
 - Determination
   ```
+
+---
+
+### Style & Approach 
+
+- <ins>**Pragmatic**</ins> → Prioritizing working solutions with a hands-on approach across both front-end and back-end development.
+
+- <ins>**User-Centric & Inclusive**</ins> → Designing and implementing features that are both functional and accessible, ensuring a seamless experience for a diverse range of users by considering their needs and emotions.
+
+- <ins>**Concise & Functional**</ins> → Delivering straightforward solutions that focus on essential functionalities with clear, efficient, and maintainable code and design.
+
+- <ins>**Minimalistic**</ins> → Optimizing performance and user experience by removing unnecessary elements in both design and code.
+
+- <ins>**Logical & Scalable**</ins> → Applying a logical, structured approach to backend architecture while supporting scalability and efficient resource management.
+
+---
 
 ### ⬡ Keywords
 
