@@ -13,11 +13,7 @@ I'm ```Clara Seijo```, **Junior Full-Stack Developer**.
 
 ### In a Nutshell
 
-> Blending a hands-on, functional style with minimalistic design.
-> 
-> My work is user-centric, emphasizing accessibility and inclusivity, aiming for clarity and conciseness.
-> 
-> I make reasoned decisions that prioritize user experience, creating both aesthetically pleasing and effective outputs.
+> Blending functionality with minimalistic design, I focus on building scalable and reliable solutions with clean code and logical structure. I'm currently exploring AI and ML, inspired by how they can transform the world around us.
 
 ---
 
