@@ -1,3 +1,6 @@
+
+<img width="1159" alt="image" src="https://github.com/user-attachments/assets/d9800bf6-120a-44c0-83ef-1fab1032eabb" />
+
 ## Clara Seijo | Full-Stack Dev
 
 ### Hi 👋🏽
@@ -17,10 +20,6 @@ I'm ```Clara Seijo```, **Junior Full-Stack Developer**.
 > I make reasoned decisions that prioritize user experience, creating both aesthetically pleasing and effective outputs.
 
 ---
-
-
-<img width="1159" alt="image" src="https://github.com/user-attachments/assets/d9800bf6-120a-44c0-83ef-1fab1032eabb" />
-
 
 ### ⬡ Tech Skills
 
