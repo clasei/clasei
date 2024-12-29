@@ -114,6 +114,7 @@ I'm ```Clara Seijo```, **Junior Full-Stack Developer**.
   <br>![npm](https://img.shields.io/badge/-npm-grey?logo=npm)
   ![Yarn](https://img.shields.io/badge/-Yarn-grey?logo=yarn)
   
+---
 
 <img width="1159" alt="image" src="https://github.com/user-attachments/assets/b6efb3f4-c027-4e79-b12d-2fb4175ffe99" />
 
