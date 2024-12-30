@@ -112,7 +112,7 @@ I'm ```Clara Seijo```, **Junior Full-Stack Developer**.
 <img width="1159" alt="image" src="https://github.com/user-attachments/assets/b6efb3f4-c027-4e79-b12d-2fb4175ffe99" />
 
 
-### ⬡ Projects
+### ⬡ Deployed Projects
 
 - [**recup**](https://just-recup.netlify.app/) | ```MongoDB + Express + React + NodeJS``` → *This is a platform dedicated to highlighting content worth sharing, bringing you genuine recommendations from real people. Cut through the noise and find what truly matters, all in one place.*
 
