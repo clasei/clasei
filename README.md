@@ -85,13 +85,10 @@ I'm ```Clara Seijo```, **Junior Full-Stack Developer**.
 - **Front-End**
   <br>![HTML](https://img.shields.io/badge/-HTML-grey?logo=html5)
   ![CSS](https://img.shields.io/badge/-CSS-grey?logo=css3)
-  ![JavaScript (Focus)](https://img.shields.io/badge/-JavaScript-grey?logo=javascript)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-grey?logo=typescript)
-  ![React (Focus)](https://img.shields.io/badge/-React-grey?logo=react)
+  ![React](https://img.shields.io/badge/-React-grey?logo=react)
   ![Angular](https://img.shields.io/badge/-Angular-grey?logo=angular)
-  ![Vite](https://img.shields.io/badge/-Vite-grey?logo=vite)
-  ![Responsive Design](https://img.shields.io/badge/-Responsive_Design-grey?logo=responsive)
-  ![Accessibility](https://img.shields.io/badge/-Accessibility-grey?logo=accessibility)
 
 - **Back-End**
   <br>![Node.js](https://img.shields.io/badge/-Node.js-grey?logo=node.js)
@@ -110,10 +107,6 @@ I'm ```Clara Seijo```, **Junior Full-Stack Developer**.
   ![GitHub](https://img.shields.io/badge/-GitHub-grey?logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-grey?logo=gitlab)
 
-- **Package Managers**
-  <br>![npm](https://img.shields.io/badge/-npm-grey?logo=npm)
-  ![Yarn](https://img.shields.io/badge/-Yarn-grey?logo=yarn)
-  
 ---
 
 <img width="1159" alt="image" src="https://github.com/user-attachments/assets/b6efb3f4-c027-4e79-b12d-2fb4175ffe99" />
