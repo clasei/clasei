@@ -13,7 +13,7 @@ I'm ```Clara Seijo```, **Junior Full-Stack Developer**.
 
 ### In a Nutshell
 
-> Blending functionality with minimalistic design, I focus on building scalable and reliable solutions with clean code and logical structure. I'm currently exploring AI and ML, inspired by how they can transform the world around us.
+> Blending functionality with minimalistic design, I focus on building scalable and reliable solutions with clean code and logical structure. I'm currently exploring AI & ML, inspired by how they can transform the world around us.
 
 ---
 
@@ -138,9 +138,9 @@ I'm ```Clara Seijo```, **Junior Full-Stack Developer**.
 
 - [**quantumCookies**](https://clasei.github.io/quantum-cookies/) | ```Angular``` → *like fortune cookies, but making sense — a quick check-in with yourself and Feynman*
 
-- [**spaceTime**](https://clasei.github.io/space-time/) | ```JS``` → *an easy way to look at time while you are in your space*
+- [**spaceTime**](https://clasei.github.io/space-time/) | ```JS + particles.js``` → *an easy way to look at time while floating through your space and dancing with interactive particles*
 
-- [**matterAnimation**](https://clasei.github.io/matter-animation/) | ```JS``` → *a simple and accessible way to create animations with Matter.js*
+- [**matterAnimation**](https://clasei.github.io/matter-animation/) | ```JS + Matter.js``` → *a simple and accessible way to bring physics-based animations to life with Matter.js*
 
 ---
 
