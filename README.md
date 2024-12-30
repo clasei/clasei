@@ -26,7 +26,6 @@ I'm ```Clara Seijo```, **Junior Full-Stack Developer**.
   - TypeScript
   - React
   - Angular
-  - Vite
   - Responsive Design
   - Accessibility
   - Optimization
