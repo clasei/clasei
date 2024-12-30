@@ -111,44 +111,44 @@ I'm ```Clara Seijo```, **Junior Full-Stack Developer**.
 <img width="1159" alt="image" src="https://github.com/user-attachments/assets/b6efb3f4-c027-4e79-b12d-2fb4175ffe99" />
 
 
-### » Deployed Projects
+### Deployed Projects
 
 #### Netlify
 
-- [**recup**](https://just-recup.netlify.app/) | ```MongoDB + Express + React + NodeJS``` → *This is a platform dedicated to highlighting content worth sharing, bringing you genuine recommendations from real people. Cut through the noise and find what truly matters, all in one place.*
+» [**recup**](https://just-recup.netlify.app/) | ```MongoDB + Express + React + NodeJS``` → *This is a platform dedicated to highlighting content worth sharing, bringing you genuine recommendations from real people. Cut through the noise and find what truly matters, all in one place.*
 
-- [**HeroZone**](https://herozone.netlify.app/) | ```React + Marvel API``` { collaborative } → *HeroZone is an interactive app where users can explore a vast collection of Marvel characters, comics, and related information. Additionally, users can create their own custom superheroes with unique abilities and attributes.*
+» [**HeroZone**](https://herozone.netlify.app/) | ```React + Marvel API``` { collaborative } → *HeroZone is an interactive app where users can explore a vast collection of Marvel characters, comics, and related information. Additionally, users can create their own custom superheroes with unique abilities and attributes.*
 
 #### GitHub Pages
 
-- [**SpaceHitchhikers**](https://clasei.github.io/space-hitchhikers/) | ```React``` → *SpaceHitchhikers — the game: you are a human traveling through space, get your towel and survive for 4’ 20” -- made for big screens*
+» [**SpaceHitchhikers**](https://clasei.github.io/space-hitchhikers/) | ```React``` → *SpaceHitchhikers — the game: you are a human traveling through space, get your towel and survive for 4’ 20” -- made for big screens*
 
-- [**bioLink**](https://clasei.github.io/clara/) | ```React``` → *this is just another biolink... right?*
+» [**bioLink**](https://clasei.github.io/clara/) | ```React``` → *this is just another biolink... right?*
 
-- [**sparkForm**](https://spark-form-7.web.app/) | ```React + Firebase``` → *easy signup form to grow your audience*
+» [**sparkForm**](https://spark-form-7.web.app/) | ```React + Firebase``` → *easy signup form to grow your audience*
 
-- [**twinkleCircle**](https://clasei.github.io/twinkle-circle/) | ```React``` → *a modern twist on a classic to test your own random access memory*
+» [**twinkleCircle**](https://clasei.github.io/twinkle-circle/) | ```React``` → *a modern twist on a classic to test your own random access memory*
     - last release **» [twinkle-circle v1.0.3](https://github.com/clasei/twinkle-circle/releases/tag/v1.0.3)**
 
-- [**neutronLink**](https://neutron-link-0.web.app/) | ```React + Firebase``` → *link sharing with spacial simplicity*
+» [**neutronLink**](https://neutron-link-0.web.app/) | ```React + Firebase``` → *link sharing with spacial simplicity*
 
-- [**pragmaticFooter**](https://clasei.github.io/pragmatic-footer/) | ```React``` → *this is a pragmatic footer*
+» [**pragmaticFooter**](https://clasei.github.io/pragmatic-footer/) | ```React``` → *this is a pragmatic footer*
 
-- [**galacticHitchhiker**](https://clasei.github.io/galactic-hitchhiker/) | ```Angular``` → *there's a frood who really knows where his towel is!*
+» [**galacticHitchhiker**](https://clasei.github.io/galactic-hitchhiker/) | ```Angular``` → *there's a frood who really knows where his towel is!*
 
-- [**quantumCookies**](https://clasei.github.io/quantum-cookies/) | ```Angular``` → *like fortune cookies, but making sense — a quick check-in with yourself and Feynman*
+» [**quantumCookies**](https://clasei.github.io/quantum-cookies/) | ```Angular``` → *like fortune cookies, but making sense — a quick check-in with yourself and Feynman*
 
-- [**spaceTime**](https://clasei.github.io/space-time/) | ```JS + particles.js``` → *an easy way to look at time while floating through your space and dancing with interactive particles*
+» [**spaceTime**](https://clasei.github.io/space-time/) | ```JS + particles.js``` → *an easy way to look at time while floating through your space and dancing with interactive particles*
 
-- [**matterAnimation**](https://clasei.github.io/matter-animation/) | ```JS + Matter.js``` → *a simple and accessible way to bring physics-based animations to life with Matter.js*
+» [**matterAnimation**](https://clasei.github.io/matter-animation/) | ```JS + Matter.js``` → *a simple and accessible way to bring physics-based animations to life with Matter.js*
 
 ---
 
-### Get In Touch
+### Thoughts? 
 
-✉️ Thoughts? Write to [**clasei@proton.me**](mailto:clasei@proton.me)
+Write to [**clasei@proton.me**](mailto:clasei@proton.me)
 
-🐧 Want to connect? Reach out on [**LinkedIn**](https://www.linkedin.com/in/claraseijo/)
+Want to connect? Reach out on [**LinkedIn**](https://www.linkedin.com/in/claraseijo/)
 
 ---
 
