@@ -121,7 +121,7 @@ I'm ```Clara Seijo```, **Junior Full-Stack Developer**.
 
 #### GitHub Pages
 
-» [**SpaceHitchhikers**](https://clasei.github.io/space-hitchhikers/) | ```React``` → *SpaceHitchhikers — the game: you are a human traveling through space, get your towel and survive for 4’ 20” -- made for big screens*
+» [**SpaceHitchhikers**](https://clasei.github.io/space-hitchhikers/) | ```React``` → *you are a human traveling through space, get your towel and survive for 4’ 20” -- made for big screens*
 
 » [**bioLink**](https://clasei.github.io/clara/) | ```React``` → *this is just another biolink... right?*
 
