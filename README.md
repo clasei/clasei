@@ -17,6 +17,34 @@ I'm ```Clara Seijo```, **Junior Full-Stack Developer**.
 
 ---
 
+### Keywords
+
+- **Front-End**
+  <br>![HTML](https://img.shields.io/badge/-HTML-grey?logo=html5)
+  ![CSS](https://img.shields.io/badge/-CSS-grey?logo=css3)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-grey?logo=typescript)
+  ![React](https://img.shields.io/badge/-React-grey?logo=react)
+  ![Angular](https://img.shields.io/badge/-Angular-grey?logo=angular)
+
+- **Back-End**
+  <br>![Node.js](https://img.shields.io/badge/-Node.js-grey?logo=node.js)
+  ![Express](https://img.shields.io/badge/-Express-grey?logo=express)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-grey?logo=mongodb)
+  ![SQL](https://img.shields.io/badge/-SQL-grey?logo=sql)
+  ![Axios](https://img.shields.io/badge/-Axios-grey?logo=axios)
+  ![JSON](https://img.shields.io/badge/-JSON-grey?logo=json)
+  ![Firebase](https://img.shields.io/badge/-Firebase-grey?logo=firebase)
+  ![Python](https://img.shields.io/badge/-Python-grey?logo=python)
+  ![Jupyter Notebooks](https://img.shields.io/badge/-Jupyter_Notebooks-grey?logo=jupyter)
+
+- **Version Control**
+  <br>![Git](https://img.shields.io/badge/-Git-grey?logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-grey?logo=github)
+  ![GitLab](https://img.shields.io/badge/-GitLab-grey?logo=gitlab)
+
+---
+
 ### ⬡ Tech Skills
 
 - **Front-End**
@@ -79,47 +107,19 @@ I'm ```Clara Seijo```, **Junior Full-Stack Developer**.
 
 ---
 
-### ⬡ Keywords
-
-- **Front-End**
-  <br>![HTML](https://img.shields.io/badge/-HTML-grey?logo=html5)
-  ![CSS](https://img.shields.io/badge/-CSS-grey?logo=css3)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-grey?logo=typescript)
-  ![React](https://img.shields.io/badge/-React-grey?logo=react)
-  ![Angular](https://img.shields.io/badge/-Angular-grey?logo=angular)
-
-- **Back-End**
-  <br>![Node.js](https://img.shields.io/badge/-Node.js-grey?logo=node.js)
-  ![Express](https://img.shields.io/badge/-Express-grey?logo=express)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-grey?logo=mongodb)
-  ![SQL](https://img.shields.io/badge/-SQL-grey?logo=sql)
-  ![Axios](https://img.shields.io/badge/-Axios-grey?logo=axios)
-  ![JSON](https://img.shields.io/badge/-JSON-grey?logo=json)
-  ![JWT Authentication](https://img.shields.io/badge/-JWT-grey?logo=jwt)
-  ![Firebase](https://img.shields.io/badge/-Firebase-grey?logo=firebase)
-  ![Python](https://img.shields.io/badge/-Python-grey?logo=python)
-  ![Jupyter Notebooks](https://img.shields.io/badge/-Jupyter_Notebooks-grey?logo=jupyter)
-
-- **Version Control**
-  <br>![Git](https://img.shields.io/badge/-Git-grey?logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-grey?logo=github)
-  ![GitLab](https://img.shields.io/badge/-GitLab-grey?logo=gitlab)
-
----
 
 <img width="1159" alt="image" src="https://github.com/user-attachments/assets/b6efb3f4-c027-4e79-b12d-2fb4175ffe99" />
 
 
-### ⬡ Deployed Projects
+### » Deployed Projects
 
-#### > Netlify
+#### Netlify
 
 - [**recup**](https://just-recup.netlify.app/) | ```MongoDB + Express + React + NodeJS``` → *This is a platform dedicated to highlighting content worth sharing, bringing you genuine recommendations from real people. Cut through the noise and find what truly matters, all in one place.*
 
 - [**HeroZone**](https://herozone.netlify.app/) | ```React + Marvel API``` { collaborative } → *HeroZone is an interactive app where users can explore a vast collection of Marvel characters, comics, and related information. Additionally, users can create their own custom superheroes with unique abilities and attributes.*
 
-#### > GitHub Pages
+#### GitHub Pages
 
 - [**SpaceHitchhikers**](https://clasei.github.io/space-hitchhikers/) | ```React``` → *SpaceHitchhikers — the game: you are a human traveling through space, get your towel and survive for 4’ 20” -- made for big screens*
 
