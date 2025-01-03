@@ -31,7 +31,7 @@ I'm ```Clara Seijo```, **Junior Full-Stack Developer**.
   <br>![Node.js](https://img.shields.io/badge/-Node.js-grey?logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-grey?logo=express)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-grey?logo=mongodb)
-  ![SQL](https://img.shields.io/badge/-SQL-grey?logo=sql)
+  ![SQL](https://img.shields.io/badge/-SQL-grey?logo=MySQL)
   ![Axios](https://img.shields.io/badge/-Axios-grey?logo=axios)
   ![JSON](https://img.shields.io/badge/-JSON-grey?logo=json)
   ![Python](https://img.shields.io/badge/-Python-grey?logo=python)
