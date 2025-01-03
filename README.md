@@ -34,9 +34,7 @@ I'm ```Clara Seijo```, **Junior Full-Stack Developer**.
   ![SQL](https://img.shields.io/badge/-SQL-grey?logo=sql)
   ![Axios](https://img.shields.io/badge/-Axios-grey?logo=axios)
   ![JSON](https://img.shields.io/badge/-JSON-grey?logo=json)
-  ![Firebase](https://img.shields.io/badge/-Firebase-grey?logo=firebase)
   ![Python](https://img.shields.io/badge/-Python-grey?logo=python)
-  ![Jupyter Notebooks](https://img.shields.io/badge/-Jupyter_Notebooks-grey?logo=jupyter)
 
 - **Version Control**
   <br>![Git](https://img.shields.io/badge/-Git-grey?logo=git)
