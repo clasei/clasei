@@ -71,9 +71,7 @@ I'm ```Clara Seijo```, **Junior Full-Stack Developer**.
   - JSON Server
   - APIs (Third-Party & RESTful)
   - JWT Authentication
-  - Firebase
   - Python
-  - Jupyter Notebooks
   ```
 
 - **Version Control**
