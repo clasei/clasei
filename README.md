@@ -11,75 +11,77 @@ I'm ```Clara Seijo```, **Junior Full-Stack Developer**.
 
 ---
 
-### In a Nutshell
+### Building Scalable & Reliable Tech
 
-> I build scalable, reliable solutions with clean code and logical structure — focusing on simplicity, efficiency, and usability.
+> I focus on developing scalable, efficient, and user-centered solutions  
+> with clean code and logical structure.
+
+  ```
+> Simplicity → No unnecessary complexity  
+> Efficiency → Performant & scalable  
+> Usability → Clear, accessible, and functional
+  ```
 
 ---
 
-### Keywords
+### Tech Skills
 
-- **Front-End**
-  <br>![HTML](https://img.shields.io/badge/-HTML-grey?logo=html5)
+🔹 **Front-End**
+  <br><br>
+  ![HTML](https://img.shields.io/badge/-HTML-grey?logo=html5)
   ![CSS](https://img.shields.io/badge/-CSS-grey?logo=css3)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-grey?logo=typescript)
   ![React](https://img.shields.io/badge/-React-grey?logo=react)
   ![Angular](https://img.shields.io/badge/-Angular-grey?logo=angular)
 
-- **Back-End**
-  <br>![Node.js](https://img.shields.io/badge/-Node.js-grey?logo=node.js)
-  ![Express](https://img.shields.io/badge/-Express-grey?logo=express)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-grey?logo=mongodb)
-  ![SQL](https://img.shields.io/badge/-SQL-grey?logo=MySQL)
-  ![Axios](https://img.shields.io/badge/-Axios-grey?logo=axios)
-  ![JSON](https://img.shields.io/badge/-JSON-grey?logo=json)
-  ![Python](https://img.shields.io/badge/-Python-grey?logo=python)
-
-- **Version Control**
-  <br>![Git](https://img.shields.io/badge/-Git-grey?logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-grey?logo=github)
-  ![GitLab](https://img.shields.io/badge/-GitLab-grey?logo=gitlab)
-
----
-
-### ⬡ Tech Skills
-
-- **Front-End**
   ```
   - HTML5, CSS3
   - JavaScript
   - TypeScript
   - React
   - Angular
-  - Responsive Design
+  - UX/UI
   - Accessibility
-  - Optimization
-  - UX/UI Design Principles
+  - Responsive
   ```
 
-- **Back-End**
+🔹 **Back-End**
+  <br><br>
+  ![Node.js](https://img.shields.io/badge/-Node.js-grey?logo=node.js)
+  ![Express](https://img.shields.io/badge/-Express-grey?logo=express)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-grey?logo=mongodb)
+  ![SQL](https://img.shields.io/badge/-SQL-grey?logo=MySQL)
+  ![Axios](https://img.shields.io/badge/-Axios-grey?logo=axios)
+  ![JSON](https://img.shields.io/badge/-JSON-grey?logo=json)
+  ![Python](https://img.shields.io/badge/-Python-grey?logo=python)
+  
   ```
   - Node.js
   - Express
   - SQL
   - MongoDB
+  - Python
   - Axios
   - JSON
   - JSON Server
   - APIs (Third-Party & RESTful)
   - JWT Authentication
-  - Python
   ```
 
-- **Version Control**
+🔹 **Version Control**
+  <br><br>
+  ![Git](https://img.shields.io/badge/-Git-grey?logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-grey?logo=github)
+  ![GitLab](https://img.shields.io/badge/-GitLab-grey?logo=gitlab)
+  
   ```
   - Git
   - GitHub
   - GitLab
   ```
 
-- **Overall**
+🔹 **Overall**
   ```
   - Neat Documentation
   - Good Coding Practices
@@ -87,8 +89,9 @@ I'm ```Clara Seijo```, **Junior Full-Stack Developer**.
   - Project Management
   ```
 
+---
 
-### ⬡ Soft Skills
+### Soft Skills
   ```
 - Problem Solving
 - Logical Thinking
@@ -102,7 +105,6 @@ I'm ```Clara Seijo```, **Junior Full-Stack Developer**.
   ```
 
 ---
-
 
 <img width="1159" alt="image" src="https://github.com/user-attachments/assets/b6efb3f4-c027-4e79-b12d-2fb4175ffe99" />
 
