@@ -232,9 +232,9 @@ _A simple and accessible way to explore physics-driven interactions with Matter.
 
 ## 🔥 Thoughts? 
 
-Write to [**clasei@proton.me**](mailto:clasei@proton.me)
+» Write to [**clasei@proton.me**](mailto:clasei@proton.me)
 
-Want to connect? Reach out on [**LinkedIn**](https://www.linkedin.com/in/claraseijo/)
+» Want to connect? Reach out on [**LinkedIn**](https://www.linkedin.com/in/claraseijo/)
 
 <br>
 
