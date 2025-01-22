@@ -17,9 +17,9 @@ I'm ```Clara Seijo```, **Junior Full-Stack Developer**.
 > with clean code and logical structure.
 
   ```
-> Simplicity → No unnecessary complexity  
-> Efficiency → Performant & scalable  
-> Usability → Clear, accessible, and functional
+> Simplicity → cut the unuseful complex  
+> Efficiency → scale smart, perform better  
+> Usability → clarity drives function  
   ```
 
 ---
