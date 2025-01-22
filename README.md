@@ -29,7 +29,6 @@ A mix of projects I’ve built, learned from, and had fun with.
 
 ---
 ### ❑ recup  
-`MongoDB + Express + React + NodeJS`
 
 <img width="250" alt="recup" src="https://github.com/user-attachments/assets/9e853706-03fd-4ce8-9257-c2500064e6b7" />  
 
@@ -37,11 +36,12 @@ A mix of projects I’ve built, learned from, and had fun with.
 
 ___A platform for genuine recommendations, cutting through the noise.___  
 _This app is designed to highlight valuable content by real users, cutting through algorithmic noise._  
+
+`MongoDB + Express + React + NodeJS`
 <br>
 
 ---
 ### ❑ HeroZone  
-`React + Marvel API`
 
 <img width="250" alt="HeroZone" src="https://github.com/user-attachments/assets/2b9c37db-e3cd-4fdb-a8cc-afd057b36e20" /> 
 
@@ -49,11 +49,12 @@ _This app is designed to highlight valuable content by real users, cutting throu
 
 ___Discover, explore, and create superheroes.___  
 _An interactive Marvel API app where users can explore characters, comics, and craft their own custom heroes._  
+
+`React + Marvel API`
 <br>
 
 ---
 ### ❑ sparkForm  
-`React + Firebase`
 
 <img width="250" alt="sparkForm" src="https://github.com/user-attachments/assets/c83ad959-9b29-4710-85d9-94686aa28abf" />
 
@@ -61,11 +62,12 @@ _An interactive Marvel API app where users can explore characters, comics, and c
 
 ___Easy signup form to grow your audience.___  
 _A streamlined authentication flow using Firebase._  
+
+`React + Firebase`
 <br>
 
 ---
 ### ❑ twinkleCircle  
-`React`
 
 <img width="250" alt="twinkleCircle" src="https://github.com/user-attachments/assets/a1c71781-4c87-47c3-a667-98f952215f25" />
   
@@ -73,11 +75,12 @@ _A streamlined authentication flow using Firebase._
 
 ___A modern twist on a classic memory game.___  
 _A random-access memory challenge with a clean, reactive UI._  
+
+`React`
 <br>
 
 ---
 ### ❑ neutronLink  
-`React + Firebase`
 
 <img width="250" alt="neutronLink" src="https://github.com/user-attachments/assets/764c90e4-494d-4da9-899f-001661a2841f" />
 
@@ -85,11 +88,12 @@ _A random-access memory challenge with a clean, reactive UI._
 
 ___Spacial simplicity for link sharing.___  
 _A simple and effective tool for sharing links with spatial awareness._  
+
+`React + Firebase`
 <br>
 
 ---
 ### ❑ galacticHitchhiker  
-`Angular`
 
 <img width="250" alt="galacticHitchhiker" src="https://github.com/user-attachments/assets/e112572b-235b-408f-b3b5-1d46ad6c9873" />
  
@@ -97,11 +101,12 @@ _A simple and effective tool for sharing links with spatial awareness._
 
 ___A guide for those who know where their towel is.___  
 _A Hitchhiker’s Guide-inspired experience that delivers wisdom based on your state of mind._   
+
+`Angular`
 <br>
 
 ---
 ### ❑ quantumCookies  
-`Angular`
 
 <img width="250" alt="quantumCookies" src="https://github.com/user-attachments/assets/3e915c32-9f93-4032-96eb-5e18033e25c9" />
   
@@ -109,11 +114,12 @@ _A Hitchhiker’s Guide-inspired experience that delivers wisdom based on your s
 
 ___Fortune cookies, but with actual sense.___  
 _A quick check-in app featuring quotes by Richard Feynman._    
+
+`Angular`
 <br>
 
 ---
 ### ❑ spaceTime  
-`JS + particles.js`
 
 <img width="250" alt="spaceTime" src="https://github.com/user-attachments/assets/f209dca1-86be-4e28-b2f5-27f8bd591ab0" />
 
@@ -121,11 +127,12 @@ _A quick check-in app featuring quotes by Richard Feynman._
  
 ___Time, motion, and particles in sync.___  
 _An interactive visualization of time using physics-based animations._  
+
+`JS + particles.js`
 <br>
 
 ---
 ### ❑ matterAnimation  
-`JS + Matter.js`
 
 <img width="250" alt="matterAnimation" src="https://github.com/user-attachments/assets/1dd1c216-b97d-4e11-91c6-c2fc4fd5c62b" />
 
@@ -133,6 +140,8 @@ _An interactive visualization of time using physics-based animations._
 
 ___Bringing physics-based animations to life.___  
 _A simple and accessible way to explore physics-driven interactions with Matter.js._  
+
+`JS + Matter.js`
 <br>
 
 ---
