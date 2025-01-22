@@ -11,7 +11,7 @@ I'm ```Clara Seijo```, **Junior Full-Stack Developer**.
 
 <br>
 
-## 🎯 Building Tech
+## 🚀 Building Tech
 
 > I focus on developing scalable, efficient, and user-centered solutions  
 > with clean code and logical structure.
@@ -23,7 +23,7 @@ I'm ```Clara Seijo```, **Junior Full-Stack Developer**.
   ```
 <br>
 
-## 🚀 Projects  
+## 🔥 Projects  
 
 A mix of projects I’ve built, learned from, and had fun with.
 
@@ -230,7 +230,7 @@ _A simple and accessible way to explore physics-driven interactions with Matter.
 
 <br>
 
-## 🔥 Thoughts? 
+## ⚡️ Thoughts? 
 
 » Write to [**clasei@proton.me**](mailto:clasei@proton.me)
 
