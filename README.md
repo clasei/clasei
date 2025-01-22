@@ -13,7 +13,7 @@ I'm ```Clara Seijo```, **Junior Full-Stack Developer**.
 
 ### In a Nutshell
 
-> Blending functionality with minimalistic design, I focus on building scalable and reliable solutions with clean code and logical structure. I'm currently exploring AI & ML, inspired by how they can transform the world around us.
+> I build scalable, reliable solutions with clean code and logical structure — focusing on simplicity, efficiency, and usability.
 
 ---
 
