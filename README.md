@@ -31,7 +31,7 @@ Feel free to check the live sites and have some fun yourself too!
 ---
 ### ❑ recup  
 
-<img width="250" alt="recup" src="https://github.com/user-attachments/assets/9e853706-03fd-4ce8-9257-c2500064e6b7" />  
+<img width="300" alt="recup" src="https://github.com/user-attachments/assets/9e853706-03fd-4ce8-9257-c2500064e6b7" />  
 
 [👾 Live Site](https://just-recup.netlify.app/) | [Client Repo](https://github.com/clasei/recup-client) + [Server Repo](https://github.com/clasei/recup-server)  
 
@@ -45,7 +45,7 @@ _This app is designed to highlight valuable content by real users, cutting throu
 ---
 ### ❑ HeroZone  
 
-<img width="250" alt="HeroZone" src="https://github.com/user-attachments/assets/2b9c37db-e3cd-4fdb-a8cc-afd057b36e20" /> 
+<img width="300" alt="HeroZone" src="https://github.com/user-attachments/assets/2b9c37db-e3cd-4fdb-a8cc-afd057b36e20" /> 
 
 [👾 Live Site](https://herozone.netlify.app/) | [Client Repo](https://github.com/emxgrz/HeroZone_frontend) + [Server Repo](https://github.com/emxgrz/HeroZone_backend)
 
@@ -59,7 +59,7 @@ _An interactive Marvel API app where users can explore characters, comics, and c
 ---
 ### ❑ sparkForm  
 
-<img width="250" alt="sparkForm" src="https://github.com/user-attachments/assets/c83ad959-9b29-4710-85d9-94686aa28abf" />
+<img width="300" alt="sparkForm" src="https://github.com/user-attachments/assets/c83ad959-9b29-4710-85d9-94686aa28abf" />
 
 [👾 Live Site](https://spark-form-7.web.app/) | [Repo](https://github.com/clasei/spark-form)  
 
@@ -73,7 +73,7 @@ _A streamlined authentication flow using Firebase._
 ---
 ### ❑ twinkleCircle  
 
-<img width="250" alt="twinkleCircle" src="https://github.com/user-attachments/assets/a1c71781-4c87-47c3-a667-98f952215f25" />
+<img width="300" alt="twinkleCircle" src="https://github.com/user-attachments/assets/a1c71781-4c87-47c3-a667-98f952215f25" />
   
 [👾 Live Site](https://clasei.github.io/twinkle-circle/) | [Repo](https://github.com/clasei/twinkle-circle)  
 
@@ -87,7 +87,7 @@ _A random-access memory challenge with a clean, reactive UI._
 ---
 ### ❑ neutronLink  
 
-<img width="250" alt="neutronLink" src="https://github.com/user-attachments/assets/764c90e4-494d-4da9-899f-001661a2841f" />
+<img width="300" alt="neutronLink" src="https://github.com/user-attachments/assets/764c90e4-494d-4da9-899f-001661a2841f" />
 
 [👾 Live Site](https://neutron-link-0.web.app/) | [Repo](https://github.com/clasei/neutron-link)  
 
@@ -101,7 +101,7 @@ _A simple and effective tool for sharing links with spatial awareness._
 ---
 ### ❑ galacticHitchhiker  
 
-<img width="250" alt="galacticHitchhiker" src="https://github.com/user-attachments/assets/e112572b-235b-408f-b3b5-1d46ad6c9873" />
+<img width="300" alt="galacticHitchhiker" src="https://github.com/user-attachments/assets/e112572b-235b-408f-b3b5-1d46ad6c9873" />
  
 [👾 Live Site](https://clasei.github.io/galactic-hitchhiker/) | [Repo](https://github.com/clasei/galactic-hitchhiker) 
 
@@ -115,7 +115,7 @@ _A Hitchhiker’s Guide-inspired experience that delivers wisdom based on your s
 ---
 ### ❑ quantumCookies  
 
-<img width="250" alt="quantumCookies" src="https://github.com/user-attachments/assets/3e915c32-9f93-4032-96eb-5e18033e25c9" />
+<img width="300" alt="quantumCookies" src="https://github.com/user-attachments/assets/3e915c32-9f93-4032-96eb-5e18033e25c9" />
   
 [👾 Live Site](https://clasei.github.io/quantum-cookies/) | [Repo](https://github.com/clasei/quantum-cookies)
 
@@ -129,7 +129,7 @@ _A quick check-in app featuring quotes by Richard Feynman._
 ---
 ### ❑ spaceTime  
 
-<img width="250" alt="spaceTime" src="https://github.com/user-attachments/assets/f209dca1-86be-4e28-b2f5-27f8bd591ab0" />
+<img width="300" alt="spaceTime" src="https://github.com/user-attachments/assets/f209dca1-86be-4e28-b2f5-27f8bd591ab0" />
 
 [👾 Live Site](https://clasei.github.io/space-time/) | [Repo](https://github.com/clasei/space-time)  
  
@@ -143,7 +143,7 @@ _An interactive visualization of time using physics-based animations._
 ---
 ### ❑ matterAnimation  
 
-<img width="250" alt="matterAnimation" src="https://github.com/user-attachments/assets/1dd1c216-b97d-4e11-91c6-c2fc4fd5c62b" />
+<img width="300" alt="matterAnimation" src="https://github.com/user-attachments/assets/1dd1c216-b97d-4e11-91c6-c2fc4fd5c62b" />
 
 [👾 Live Site](https://clasei.github.io/matter-animation/) | [Repo](https://github.com/clasei/matter-animation/)
 
@@ -227,14 +227,15 @@ _A simple and accessible way to explore physics-driven interactions with Matter.
 ## ⭐ Soft Skills
   ```
 - Problem Solving
+- Attention to Detail
 - Logical Thinking
 - Communication
 - Team Collaboration
+- Empathy
 - Proactivity
 - Resilience
-- Attention to Detail
-- Continuous Learning
 - Determination
+- Continuous Learning
   ```
 
 
@@ -244,7 +245,7 @@ _A simple and accessible way to explore physics-driven interactions with Matter.
 
 » Write to [**clasei@proton.me**](mailto:clasei@proton.me)
 
-» Want to connect? Reach out on [**LinkedIn**](https://www.linkedin.com/in/claraseijo/)
+» Want to connect? Reach out on [**LinkedIn**](https://www.linkedin.com/in/claraseijo/) 
 
 <br>
 
