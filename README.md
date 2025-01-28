@@ -19,6 +19,23 @@ I'm ```Clara Seijo```, **Junior Full-Stack Developer**.
 > Efficiency → scale smart, perform better  
 > Usability → clarity drives function  
   ```
+
+<br>
+
+## 🎯 Currently Working On → Machinsight  
+
+[Client Repo](https://github.com/clasei/machinsight-client) | [Server Repo](https://github.com/clasei/machinsight-server) | [FastAPI Repo](https://github.com/clasei/machinsight-fastapi)  
+
+___A smart maintenance tracker for industrial machines.___  
+_This app streamlines equipment monitoring by allowing businesses to import operational data, visualize machine status, and manage maintenance logs._  
+
+#### How It Works
+1. **Upload Data** → Import `.csv` or `.xlsx` files with machine metrics.  
+2. **Process & Store** → FastAPI converts the data into JSON and sends it to the server.  
+3. **Manage & View** → The Node.js backend handles updates, while the React frontend provides **real-time insights**.  
+
+`React + TypeScript + Node.js + Express + FastAPI + Python`
+
 <br>
 
 ## 🔥 Projects  
@@ -108,7 +125,7 @@ _A simple and effective tool for sharing links with spatial awareness._
 ___A guide for those who know where their towel is.___  
 _A Hitchhiker’s Guide-inspired experience that delivers wisdom based on your state of mind._   
 
-`Angular + JSON`
+`Angular + TypeScript + JSON`
 
 <br>
 
@@ -122,7 +139,7 @@ _A Hitchhiker’s Guide-inspired experience that delivers wisdom based on your s
 ___Fortune cookies, but with actual sense.___  
 _A quick check-in app featuring quotes by Richard Feynman._    
 
-`Angular + JSON`
+`Angular + TypeScript + JSON`
 
 <br>
 
