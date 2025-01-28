@@ -22,7 +22,9 @@ I'm ```Clara Seijo```, **Junior Full-Stack Developer**.
 
 <br>
 
-## 🎯 Currently Working On → Machinsight  
+## 🎯 Currently Working On →  
+
+### ❑ Machinsight  
 
 [Client Repo](https://github.com/clasei/machinsight-client) | [Server Repo](https://github.com/clasei/machinsight-server) | [FastAPI Repo](https://github.com/clasei/machinsight-fastapi)  
 
