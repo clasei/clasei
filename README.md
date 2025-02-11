@@ -39,7 +39,7 @@ _Designed to keep things simple, yet structured — flowx helps you stay organiz
 - **Sorting & Pagination** → Flexible queries for better organization.  
 - **Database Integration** → Stores & manages tasks efficiently.  
 
-`Java + Spring Boot + Postgresql + Rest API`
+`Java + Spring Boot + PostgreSQL + REST API`
 
 ---
 
