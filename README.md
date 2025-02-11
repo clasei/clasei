@@ -24,11 +24,13 @@ I'm ```Clara Seijo```, **Junior Full-Stack Developer**.
 
 ## 🎯 Currently Working On →  
 
+<br>
+
 ### ❑ flowx  
 
-[server repo](https://github.com/clasei/flowx-server)  
+[Server Repo](https://github.com/clasei/flowx-server)  
 
-___A lightweight task tracker with flexible sorting & pagination.___  
+___A lightweight task tracker with sorting & pagination.___  
 _Designed to keep things simple, yet structured — flowx helps you stay organized with minimal effort._  
 
 #### How It Works
@@ -40,6 +42,8 @@ _Designed to keep things simple, yet structured — flowx helps you stay organiz
 `Java + Spring Boot + Postgresql + Rest API`
 
 ---
+
+<br>
 
 ### ❑ Machinsight  
 
