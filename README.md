@@ -53,9 +53,9 @@ ___A smart maintenance tracker for industrial machines.___
 _This app streamlines equipment monitoring by allowing businesses to import operational data, visualize machine status, and manage maintenance logs._  
 
 #### How It Works
-1. **Upload Data** → Import `.csv` or `.xlsx` files with machine metrics.  
-2. **Process & Store** → FastAPI converts the data into JSON and sends it to the server.  
-3. **Manage & View** → The Node.js backend handles updates, while the React frontend provides **real-time insights**.  
+- **Upload Data** → Import `.csv` or `.xlsx` files with machine metrics.  
+- **Process & Store** → FastAPI converts the data into JSON and sends it to the server.  
+- **Manage & View** → The Node.js backend handles updates, while the React frontend provides **real-time insights**.  
 
 `React + TypeScript + Node.js + Express + FastAPI + Python`
 
