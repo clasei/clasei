@@ -28,18 +28,19 @@ I'm ```Clara Seijo```, **Junior Full-Stack Developer**.
 
 ### ❑ flowx  
 
-[Server Repo](https://github.com/clasei/flowx-server)  
+[Client Repo](https://github.com/clasei/flowx-client) | [Server Repo](https://github.com/clasei/flowx-server)  
 
-___A lightweight task tracker with sorting & pagination.___  
+___A lightweight task tracker with sorting, prioritization & a clean UI.___  
 _Designed to keep things simple, yet structured — flowx helps you stay organized with minimal effort._  
 
 #### How It Works
-- **Task management** → Create, read, update, delete tasks.  
-- **Priority levels** → Tasks are ranked by priority: urgent, important, queue.  
-- **Sorting & Pagination** → Flexible queries for better organization.  
-- **Database Integration** → Stores & manages tasks efficiently.  
+- **Task management** → Create, update, delete tasks effortlessly.  
+- **Priority levels** → Tasks are ranked as critical, focus, or pipeline.  
+- **Sorting & Pagination** → Organize tasks dynamically.  
+- **Responsive UI** → Clean, dark-mode friendly design for a smooth workflow.  
 
-`Java + Spring Boot + PostgreSQL + REST API`
+
+`Angular + TypeScript + Java + Spring Boot + PostgreSQL + REST API`
 
 ---
 
