@@ -28,7 +28,7 @@ I'm ```Clara Seijo```, **Junior Full-Stack Developer**.
 
 ### ❑ flowx  
 
-[Client Repo](https://github.com/clasei/flowx-client) | [Server Repo](https://github.com/clasei/flowx-server)  
+[👾 Live Site](https://flowx-woad.vercel.app/) | [Client Repo](https://github.com/clasei/flowx-client) | [Server Repo](https://github.com/clasei/flowx-server)
 
 ___A lightweight task tracker with sorting, prioritization & a clean UI.___  
 _Designed to keep things simple, yet structured — flowx helps you stay organized with minimal effort._  
