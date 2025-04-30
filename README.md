@@ -76,7 +76,7 @@ Feel free to check the live sites and have some fun yourself too!
 
 <img width="300" alt="recup" src="https://github.com/user-attachments/assets/9e853706-03fd-4ce8-9257-c2500064e6b7" />  
 
-[👾 Live Site](https://just-recup.netlify.app/) | [Client Repo](https://github.com/clasei/recup-client) + [Server Repo](https://github.com/clasei/recup-server)  
+[👾 Live Site](https://just-recup.netlify.app/)
 
 ___A platform for genuine recommendations, cutting through the noise.___  
 _This app is designed to highlight valuable content by real users, cutting through algorithmic noise._  
