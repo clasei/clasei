@@ -29,6 +29,29 @@ Check out some of my fav code projects, built with care, bugs, and breakthroughs
 
 They’re live, so go poke around and have some fun.
 
+<br>
+
+### ❑ flowx
+
+<img width="300" alt="flowx" src="https://github.com/user-attachments/assets/23bd5ad6-8dd6-4e13-86fe-b299d9811af1" />
+
+
+[👾 Live Site](https://flowx-woad.vercel.app/)
+
+___A lightweight task tracker with sorting, prioritization & a clean UI.___  
+_Designed to keep things simple, yet structured — flowx helps you stay organized with minimal effort._  
+
+#### How It Works
+- **Task management** → Create, update, delete tasks effortlessly
+- **Priority levels** → Tasks are ranked as critical, focus, or pipeline
+- **Sorting & Pagination** → Organize tasks dynamically
+- **Responsive UI** → Clean, dark-mode friendly design for a smooth workflow
+- **Deployment** → Vercel (client), Render (server), Neon (database)
+
+
+`Angular + TypeScript + Java + Spring Boot + PostgreSQL + REST API`  → w.i.p. 🛠️
+
+---
 
 <br>
 
@@ -69,30 +92,7 @@ Feel free to explore the live sites and see what clicks.
 
 <br>
 
-### ❑ flowx → w.i.p. 🛠️
-
-<img width="300" alt="flowx" src="https://github.com/user-attachments/assets/23bd5ad6-8dd6-4e13-86fe-b299d9811af1" />
-
-
-[👾 Live Site](https://flowx-woad.vercel.app/) | [Client Repo](https://github.com/clasei/flowx-client) | [Server Repo](https://github.com/clasei/flowx-server)
-
-___A lightweight task tracker with sorting, prioritization & a clean UI.___  
-_Designed to keep things simple, yet structured — flowx helps you stay organized with minimal effort._  
-
-#### How It Works
-- **Task management** → Create, update, delete tasks effortlessly.  
-- **Priority levels** → Tasks are ranked as critical, focus, or pipeline.  
-- **Sorting & Pagination** → Organize tasks dynamically.  
-- **Responsive UI** → Clean, dark-mode friendly design for a smooth workflow.  
-
-
-`Angular + TypeScript + Java + Spring Boot + PostgreSQL + REST API`
-
----
-
-<br>
-
-### ❑ Machinsight → w.i.p. 🛠️
+### ❑ Machinsight
 
 [Client Repo](https://github.com/clasei/machinsight-client) | [Server Repo](https://github.com/clasei/machinsight-server) | [FastAPI Repo](https://github.com/clasei/machinsight-fastapi)  
 
@@ -100,11 +100,11 @@ ___A smart maintenance tracker for industrial machines.___
 _This app streamlines equipment monitoring by allowing businesses to import operational data, visualize machine status, and manage maintenance logs._  
 
 #### How It Works
-- **Upload Data** → Import `.csv` or `.xlsx` files with machine metrics.  
-- **Process & Store** → FastAPI converts the data into JSON and sends it to the server.  
-- **Manage & View** → The Node.js backend handles updates, while the React frontend provides **real-time insights**.  
+- **Upload Data** → Import `.csv` or `.xlsx` files with machine metrics
+- **Process & Store** → FastAPI converts the data into JSON and sends it to the server
+- **Manage & View** → The Node.js backend handles updates, while the React frontend provides **real-time insights**  
 
-`React + TypeScript + Node.js + Express + FastAPI + Python`
+`React + TypeScript + Node.js + Express + FastAPI + Python` → w.i.p. 🛠️
 
 ---
 
