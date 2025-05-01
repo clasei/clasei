@@ -22,7 +22,7 @@ I'm ```Clara Seijo```, **Junior Full-Stack Developer**.
 
 <br>
 
-## 🔥 Highlights
+## 💎 Highlights
 Check out some of my fav code projects, built with care, bugs, and breakthroughs.
 
 They’re live, so go poke around and have some fun.
@@ -60,11 +60,17 @@ _An interactive Marvel API app where users can explore characters, comics, and c
 
 <br>
 
-## 🎯 Currently Working On →  
+## 🔥 Projects  
+Here you'll find a bunch of projects I’ve built, learned from, and enjoyed. Oh, with a few still in progress.
+
+Feel free to explore the live sites and see what clicks.
 
 <br>
 
-### ❑ flowx  
+### ❑ flowx → w.i.p. 🛠️
+
+<img width="300" alt="flowx" src="https://github.com/user-attachments/assets/23bd5ad6-8dd6-4e13-86fe-b299d9811af1" />
+
 
 [👾 Live Site](https://flowx-woad.vercel.app/) | [Client Repo](https://github.com/clasei/flowx-client) | [Server Repo](https://github.com/clasei/flowx-server)
 
@@ -84,7 +90,7 @@ _Designed to keep things simple, yet structured — flowx helps you stay organiz
 
 <br>
 
-### ❑ Machinsight  
+### ❑ Machinsight → w.i.p. 🛠️
 
 [Client Repo](https://github.com/clasei/machinsight-client) | [Server Repo](https://github.com/clasei/machinsight-server) | [FastAPI Repo](https://github.com/clasei/machinsight-fastapi)  
 
@@ -99,14 +105,6 @@ _This app streamlines equipment monitoring by allowing businesses to import oper
 `React + TypeScript + Node.js + Express + FastAPI + Python`
 
 ---
-
-<br>
-
-## 🛠️ Projects  
-Here you'll find a bunch of projects I’ve built, learned from, and had fun with.
-
-Feel free to check the live sites and have some fun yourself too!
-
 
 <br>
 
