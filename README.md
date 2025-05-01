@@ -1,11 +1,13 @@
 
 <img width="1159" alt="image" src="https://github.com/user-attachments/assets/d9800bf6-120a-44c0-83ef-1fab1032eabb" />
 
-## 👋🏽 Hi
+## 👋🏽 Hi There
 
-Welcome to my README.
+I'm Clara Seijo, **Junior Full-Stack Developer**.
 
-I'm ```Clara Seijo```, **Junior Full-Stack Developer**.
+Problem solver, proactive, logical, and creative.
+
+I solve real problems, get things done, and build things that work.
 
 <br>
 
