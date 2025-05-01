@@ -36,7 +36,7 @@ They’re live, so go poke around and have some fun.
 <img width="300" alt="flowx" src="https://github.com/user-attachments/assets/23bd5ad6-8dd6-4e13-86fe-b299d9811af1" />
 
 
-[👾 Live Site](https://flowx-woad.vercel.app/)
+#### [flowx → 👾 Live Site](https://flowx-woad.vercel.app/)
 
 ___A lightweight task tracker with sorting, prioritization & a clean UI.___  
 _Designed to keep things simple, yet structured — flowx helps you stay organized with minimal effort._  
@@ -59,7 +59,7 @@ _Designed to keep things simple, yet structured — flowx helps you stay organiz
 
 <img width="300" alt="recup" src="https://github.com/user-attachments/assets/9e853706-03fd-4ce8-9257-c2500064e6b7" />  
 
-[👾 Live Site](https://just-recup.netlify.app/)
+#### [recup → 👾 Live Site](https://just-recup.netlify.app/)
 
 ___A platform for genuine recommendations, cutting through the noise.___  
 _This app is designed to highlight valuable content by real users, cutting through algorithmic noise._  
@@ -74,7 +74,7 @@ _This app is designed to highlight valuable content by real users, cutting throu
 
 <img width="300" alt="HeroZone" src="https://github.com/user-attachments/assets/2b9c37db-e3cd-4fdb-a8cc-afd057b36e20" /> 
 
-[👾 Live Site](https://herozone.netlify.app/)
+#### [HeroZone → 👾 Live Site](https://herozone.netlify.app/)
 
 ___Discover, explore, and create superheroes.___  
 _An interactive Marvel API app where users can explore characters, comics, and craft their own custom heroes._  
