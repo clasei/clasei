@@ -22,6 +22,44 @@ I'm ```Clara Seijo```, **Junior Full-Stack Developer**.
 
 <br>
 
+## 🔥 Highlights
+Check out some of my fav code projects, built with care, bugs, and breakthroughs.
+
+They’re live, so go poke around and have some fun.
+
+
+<br>
+
+### ❑ recup  
+
+<img width="300" alt="recup" src="https://github.com/user-attachments/assets/9e853706-03fd-4ce8-9257-c2500064e6b7" />  
+
+[👾 Live Site](https://just-recup.netlify.app/)
+
+___A platform for genuine recommendations, cutting through the noise.___  
+_This app is designed to highlight valuable content by real users, cutting through algorithmic noise._  
+
+`MongoDB + Express + React + NodeJS`
+
+---
+
+<br>
+
+### ❑ HeroZone  
+
+<img width="300" alt="HeroZone" src="https://github.com/user-attachments/assets/2b9c37db-e3cd-4fdb-a8cc-afd057b36e20" /> 
+
+[👾 Live Site](https://herozone.netlify.app/)
+
+___Discover, explore, and create superheroes.___  
+_An interactive Marvel API app where users can explore characters, comics, and craft their own custom heroes._  
+
+`React + Marvel API`
+
+---
+
+<br>
+
 ## 🎯 Currently Working On →  
 
 <br>
@@ -64,41 +102,11 @@ _This app streamlines equipment monitoring by allowing businesses to import oper
 
 <br>
 
-## 🔥 Projects  
+## 🛠️ Projects  
 Here you'll find a bunch of projects I’ve built, learned from, and had fun with.
 
 Feel free to check the live sites and have some fun yourself too!
 
-<br>
-
-
-### ❑ recup  
-
-<img width="300" alt="recup" src="https://github.com/user-attachments/assets/9e853706-03fd-4ce8-9257-c2500064e6b7" />  
-
-[👾 Live Site](https://just-recup.netlify.app/)
-
-___A platform for genuine recommendations, cutting through the noise.___  
-_This app is designed to highlight valuable content by real users, cutting through algorithmic noise._  
-
-`MongoDB + Express + React + NodeJS`
-
----
-
-<br>
-
-### ❑ HeroZone  
-
-<img width="300" alt="HeroZone" src="https://github.com/user-attachments/assets/2b9c37db-e3cd-4fdb-a8cc-afd057b36e20" /> 
-
-[👾 Live Site](https://herozone.netlify.app/) | [Client Repo](https://github.com/emxgrz/HeroZone_frontend) + [Server Repo](https://github.com/emxgrz/HeroZone_backend)
-
-___Discover, explore, and create superheroes.___  
-_An interactive Marvel API app where users can explore characters, comics, and craft their own custom heroes._  
-
-`React + Marvel API`
-
----
 
 <br>
 
