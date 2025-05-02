@@ -13,8 +13,7 @@ I solve real problems, get things done, and build things that work.
 
 ## 🚀 Building Tech
 
-> I focus on developing scalable, efficient, and user-centered solutions  
-> with clean code and logical structure.
+> Building scalable, user-centered software with clean code and logical structure.
 
   ```
 > Simplicity → cut the unuseful complex  
