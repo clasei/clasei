@@ -16,9 +16,9 @@ I solve real problems, get things done, and build things that work.
 > Building scalable, user-centered software with clean code and logical structure.
 
   ```
-> Simplicity → cut the unuseful complex  
-> Efficiency → scale smart, perform better  
-> Usability → clarity drives function  
+> Simplicity → cut unnecessary complexity 
+> Efficiency → scale smart, perform sharp  
+> Usability → ease makes it work  
   ```
 
 <br>
