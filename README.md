@@ -13,12 +13,12 @@ I solve real problems, get things done, and build things that work.
 
 ## 🚀 Building Tech
 
-> Building scalable, user-centered software with clean code and logical structure.
+> Building user-centered, scalable software with clean code and logical structure.
 
   ```
+> Usability → ease makes it work 
 > Simplicity → cut unnecessary complexity 
-> Efficiency → scale smart, perform sharp  
-> Usability → ease makes it work  
+> Efficiency → scale smart, perform sharp 
   ```
 
 <br>
@@ -64,21 +64,6 @@ ___A platform for genuine recommendations, cutting through the noise.___
 _This app is designed to highlight valuable content by real users, cutting through algorithmic noise._  
 
 `MongoDB + Express + React + NodeJS`
-
----
-
-<br>
-
-### ❑ HeroZone  
-
-<img width="300" alt="HeroZone" src="https://github.com/user-attachments/assets/2b9c37db-e3cd-4fdb-a8cc-afd057b36e20" /> 
-
-#### [HeroZone → 👾 Live Site](https://herozone.netlify.app/)
-
-___Discover, explore, and create superheroes.___  
-_An interactive Marvel API app where users can explore characters, comics, and craft their own custom heroes._  
-
-`React + Marvel API`
 
 ---
 
