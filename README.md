@@ -203,6 +203,28 @@ _A simple and accessible way to explore physics-driven interactions with Matter.
 
 ## 💻 Tech Skills
 
+
+🔹 **Back-End**
+  <br><br>
+  ![Node.js](https://img.shields.io/badge/-Node.js-grey?logo=node.js)
+  ![Express](https://img.shields.io/badge/-Express-grey?logo=express)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-grey?logo=mongodb)
+  ![SQL](https://img.shields.io/badge/-SQL-grey?logo=MySQL)
+  ![Axios](https://img.shields.io/badge/-Axios-grey?logo=axios)
+  ![JSON](https://img.shields.io/badge/-JSON-grey?logo=json)
+  ![Python](https://img.shields.io/badge/-Python-grey?logo=python)
+  
+  ```
+  - Java
+  - Node.js
+  - Express
+  - SQL
+  - MongoDB
+  - JSON Server
+  - APIs (Third-Party & RESTful)
+  - JWT Authentication
+  ```
+
 🔹 **Front-End**
   <br><br>
   ![HTML](https://img.shields.io/badge/-HTML-grey?logo=html5)
@@ -221,29 +243,6 @@ _A simple and accessible way to explore physics-driven interactions with Matter.
   - UX/UI
   - Accessibility
   - Responsive
-  ```
-
-🔹 **Back-End**
-  <br><br>
-  ![Node.js](https://img.shields.io/badge/-Node.js-grey?logo=node.js)
-  ![Express](https://img.shields.io/badge/-Express-grey?logo=express)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-grey?logo=mongodb)
-  ![SQL](https://img.shields.io/badge/-SQL-grey?logo=MySQL)
-  ![Axios](https://img.shields.io/badge/-Axios-grey?logo=axios)
-  ![JSON](https://img.shields.io/badge/-JSON-grey?logo=json)
-  ![Python](https://img.shields.io/badge/-Python-grey?logo=python)
-  
-  ```
-  - Node.js
-  - Express
-  - SQL
-  - MongoDB
-  - Python
-  - Axios
-  - JSON
-  - JSON Server
-  - APIs (Third-Party & RESTful)
-  - JWT Authentication
   ```
 
 🔹 **Version Control**
