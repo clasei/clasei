@@ -206,13 +206,13 @@ _A simple and accessible way to explore physics-driven interactions with Matter.
 
 🔹 **Back-End**
   <br><br>
+  ![Java](https://img.shields.io/badge/-Java-grey?logo=java)
   ![Node.js](https://img.shields.io/badge/-Node.js-grey?logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-grey?logo=express)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-grey?logo=mongodb)
   ![SQL](https://img.shields.io/badge/-SQL-grey?logo=MySQL)
   ![Axios](https://img.shields.io/badge/-Axios-grey?logo=axios)
   ![JSON](https://img.shields.io/badge/-JSON-grey?logo=json)
-  ![Python](https://img.shields.io/badge/-Python-grey?logo=python)
   
   ```
   - Java
