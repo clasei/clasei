@@ -206,7 +206,7 @@ _A simple and accessible way to explore physics-driven interactions with Matter.
 
 🔹 **Back-End**
   <br><br>
-  ![Java](https://img.shields.io/badge/-Java-grey?logo=java)
+  ![JAVA](https://img.shields.io/badge/-JAVA-grey?logo=java)
   ![Node.js](https://img.shields.io/badge/-Node.js-grey?logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-grey?logo=express)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-grey?logo=mongodb)
