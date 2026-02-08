@@ -32,6 +32,9 @@ They’re live, so go poke around and have some fun.
 
 ### ❑ sinner
 
+<img width="300" alt="sinner" src="https://github.com/user-attachments/assets/106e2d78-0716-413e-9cf0-687bcfa49ac8" />
+
+
 #### [sinner → 👾 Live Site](https://clasei.github.io/get-sinner)
 
 ___Turn messy intent into clean, professional output.___  
