@@ -108,6 +108,9 @@ Feel free to explore the live sites and see what clicks.
 
 ### ❑ Machinsight
 
+<img width="300" alt="machinsight" src="https://github.com/user-attachments/assets/b54ad98f-d8e9-4c00-8757-a4ceac56aa06" />
+
+
 [Client Repo](https://github.com/clasei/machinsight-client) | [Server Repo](https://github.com/clasei/machinsight-server) | [FastAPI Repo](https://github.com/clasei/machinsight-fastapi)  
 
 ___A smart maintenance tracker for industrial machines.___  
