@@ -76,6 +76,33 @@ Feel free to explore the live sites and see what clicks.
 
 <br>
 
+### ❑ sinner
+
+#### [sinner → 👾 Live Site](https://clasei.github.io/get-sinner)
+
+___Turn messy intent into clean, professional output.___  
+_sinner takes raw ideas, half-written thoughts, and vague intentions and turns them into clear, structured, production-ready text for developers._
+
+#### How It Works
+- **Naming** → Generate meaningful names for variables, functions, and classes
+- **Commits** → Create conventional commit messages from change descriptions
+- **PRs** → Generate clear, formal PR descriptions from git history
+- **Squash** → Create squash commit messages from multiple commits
+- **Reviews** → Summarize recent work with concise, informal overviews
+- **Explanations** → Explain code and technical concepts clearly
+
+#### Principles
+- **Private by design** → Everything runs locally
+- **No cloud** → No external APIs
+- **No accounts** → No sign-ups
+- **No telemetry** → Your code stays yours
+
+`Python + Git + Local LLM (LM Studio)` → w.i.p. 🛠️
+
+---
+
+<br>
+
 ### ❑ Machinsight
 
 [Client Repo](https://github.com/clasei/machinsight-client) | [Server Repo](https://github.com/clasei/machinsight-server) | [FastAPI Repo](https://github.com/clasei/machinsight-fastapi)  
